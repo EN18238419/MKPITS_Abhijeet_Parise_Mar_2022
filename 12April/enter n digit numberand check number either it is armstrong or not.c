@@ -21,10 +21,10 @@ int main()
 	}
 	if(bak==add)
 	{
-		printf("palindrome number");
+		printf("armstrong number");
 	}
 	else
 	{
-		printf("not a palindrome number");	
+		printf("not a armstrong number");	
 	}
 }
