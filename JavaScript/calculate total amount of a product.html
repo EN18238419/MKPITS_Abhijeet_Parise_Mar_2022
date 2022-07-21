@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <script>
+            function total_amount()
+            {
+                var p_name=document.getElementById("name").value;
+                var p_rate=document.getElementById("rate").value;
+                var p_quantity=document.getElementById("quantity").value;
+                var total_amt=p_rate*p_quantity;
+                document.getElementById("amt").innerText=total_amt;
+            }
+        </script>
+    </head>
+    <body>
+        Enter product name:&nbsp; &nbsp;&nbsp;&nbsp;<input type="text" id="name"/><br><br>
+        Enter product rate: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="rate"/><br><br>
+        Enter product quantity: <input type="text" id="quantity"/><br><br>
+        <input style="color:hwb(66 4% 2%);background-color:rgb(18, 47, 215);" type="button" value="Click" onclick="total_amount();"/><br><br>
+        Total amount:&nbsp;<span id="amt"></span>
+    </body>
+</html>
