@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var emp_name=document.getElementById("name").value;
+                var b_sal=parseInt(document.getElementById("salary").value);
+                var hra=.23*b_sal;
+                var da=.43*b_sal;
+                var total_sal=hra+da+b_sal;
+                document.getElementById("hra").innerText=hra;
+                document.getElementById("da").innerText=da;
+                document.getElementById("total_sal").innerText=total_sal;
+                
+            }
+        </script>
+    </head>
+    <body>
+        Enter employee name: <input type="text" id="name"/><br><br>
+        Enter Basic salary:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" id="salary"/><br><br>
+        <input style="color:hwb(66 4% 2%);background-color:rgb(18, 47, 215);" type="button" value="Print" onclick="dis();"/><br><br>
+        HRA:&nbsp; <span id="hra"></span><br><br>
+        DA:&nbsp; <span id="da"></span><br><br>
+        Total Salary:&nbsp; <span id="total_sal"></span><br><br>
+    </body>
+</html>
