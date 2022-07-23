@@ -1,0 +1,55 @@
+<!-- 1=Monday 2=Tuesday 3=Wednesday 4=Thursday 5=Friday 6=Saturday 7=Sunday -->
+
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var num=parseInt(document.getElementById("n1").value);
+               
+                switch(num)
+                {
+                    case 1:
+                    res="Monday";
+                    document.getElementById("res").innerText=res;
+                    break;
+
+                    case 2:
+                    res="Tuesday";
+                    document.getElementById("res").innerText=res;
+                    break;
+                    case 3:
+                    res="Wednesday";
+                    document.getElementById("res").innerText=res;
+                    break;
+                    case 4:
+                    res="Thursday";
+                    document.getElementById("res").innerText=res;
+                    break;
+                    case 5:
+                    res="Friday";
+                    document.getElementById("res").innerText=res;
+                    break;
+                    case 6:
+                    res="Saturday";
+                    document.getElementById("res").innerText=res;
+                    break;
+                    case 7:
+                    res="Sunday";
+                    document.getElementById("res").innerText=res;
+                    break;
+                    default:
+                    res="Invalid number";
+                    document.getElementById("res").innerText=res;
+
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Print day with the help of Number</h1>
+        Enter Number:&nbsp; <input type="text" id="n1" /><br><br>
+        <input type="button" value="Find" onclick="dis();" /><br><br>
+        Result:&nbsp;<span id="res"></span>
+    </body>
+</html>
