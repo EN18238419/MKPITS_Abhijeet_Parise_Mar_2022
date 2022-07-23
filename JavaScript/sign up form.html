@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var user,pass,g,h,city;
+                user=document.getElementById("u").value;
+                pass=document.getElementById("p").value;
+                g=document.f1.g1.value;
+                numb=document.f1.number1.value;
+                city=document.f1.city.value;
+
+                result="User Details"+"<br>";
+                result+="Username:  "+user+"<br>";
+                result+="Password:  "+pass+"<br>";
+                result+="Gender:  "+g+"<br>";
+                result+="Mobile no.:  "+numb+"<br>";
+                result+="City:  "+city+"<br>";
+
+                document.getElementById("res").innerHTML=result;
+            }
+
+        </script>
+    </head>
+    <body>
+        <center>
+        <h3>Mkpits Solution</h3><br><br>
+    </center>
+       <form name="f1">
+        <fieldset>
+            <legend>Sign up form</legend><br>
+            Enter the username: <input type="text" id="u"/> &nbsp;
+            Enter the password: <input type="password" id="p"/> &nbsp;<br><br>
+            Gender: <input type="radio" name="g1" value="male" />Male
+                    <input type="radio" name="g1" value="female" />Female &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Enter Mobile no: <input type="text" id="number1"/> <br><br>
+            City <select name="city" id="city">
+            <option>Select</option>
+            <option value="nagpur">Nagpur</option>
+            <option value="pune">Pune</option>
+            <option value="mumbai">Mumbai</option>
+        </select><br><br>
+        <center>
+            <input type="button" value="Sign Up" onclick="dis();">
+        </center>
+        <center>
+            <span align="left" id="res"></span>
+        </center>
+        
+        </fieldset>
+       </form>
+    </body>
+</html>
