@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>fibonacci series</title>
+    </head>
+    <body>
+        <h3>Fibonacci series from 1-100</h3>
+        <span id="res"></span>
+        <script>
+            var i=1,a=0,b=1,c;
+            while(i<=100)
+            {
+                document.getElementById("res").innerHTML+=a+ "<br>";
+                c=a+b;
+                a=b;
+                b=c;
+                i++;
+            }
+        </script>
+    </body>
+</html>
