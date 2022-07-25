@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var n=parseInt(document.getElementById("num").value);
+                var i=1,cnt=0;
+                do
+                {
+                    if(n%i==0)
+                    {
+                        cnt=cnt+1;
+                    }
+                    i++;
+                }while(i<=n);         
+                if(cnt==2)
+                {
+                    document.getElementById("res").innerHTML="Enter number is prime number";
+                }
+                else
+                {
+                    document.getElementById("res").innerHTML="Enter number is not a prime number";   
+                }
+                i++;
+            }
+
+        </script>
+    </head>
+    <body>
+        <form>
+            <fieldset style="width:50%;">
+                <br>
+                Enter any number: <input type="text" id="num"><br><br>
+                <input type="button" value="Check" onclick="dis();" />
+                <br><br>
+                <span id="res"></span>
+            </fieldset>
+        </form>
+    </body>
+</html>
