@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <script>   
+    function comment_form() 
+    {  
+    var data="Name:<input type='text' name='name'><br>Comment:<br><textarea rows='5' cols='80'></textarea><br><input type='submit' value='Post Comment'>";  
+    document.getElementById("my_location").innerHTML=data;  
+    }  
+
+    </script>
+    
+</head>
+<body>
+    <form name="myform">
+       <input type="button" value="Comment" onclick="comment_form();">
+        <div id="my_location"></div>
+    </form>
+</body>
+</html>
