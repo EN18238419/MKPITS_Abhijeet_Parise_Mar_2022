@@ -1,0 +1,23 @@
+<!-- Used to count the genders  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <script>
+        function check()
+        {
+            var t_gen=document.getElementsByName("gender");
+            document.write("total gender: "+t_gen.length);
+        }
+
+    </script>
+</head>
+<body>
+    Male: <input type="radio" name="gender" value="male">
+    Female: <input type="radio" name="gender" value="female"> <br><br>
+    <button onclick="check();" value="total gender">Check</button>
+</body>
+</html>
