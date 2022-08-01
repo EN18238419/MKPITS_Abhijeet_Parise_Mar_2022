@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <script>
+            function dis()
+            {
+                var n1=parseInt(document.getElementById("len").value);
+                var n1=parseInt(document.getElementById("wid").value);
+                var n1=parseInt(document.getElementById("h").value);
+                var vol=n1*n2*n3;
+                var r=document.getElementById("vol");
+                r.innerText=vol;
+            }
+        </script>
+    </head>
+    <body>
+        Enter The Length:&nbsp; <input type="text" id="len"/><br><br>
+        Enter The Width:&nbsp; <input type="text" id="wid"/><br><br>
+        Enter The Height:&nbsp; <input type="text" id="h"/><br><br>
+        <input type="button" value="click" onclick="dis()"/><br><br>
+        Volume of a Cube:&nbsp; <span id="vol"></span>
+    </body>
+</html>
