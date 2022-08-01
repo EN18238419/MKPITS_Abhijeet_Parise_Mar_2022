@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+    function  changestyle()
+	{
+	document.getElementById("p1").style.color="red";
+	// document.getElementById("d1").style.backgroundColor="green"; 
+	document.getElementById("d1").style.width="500px";
+	document.getElementById("d1").style.height="500px";
+	document.getElementById("d1").style.background="url('courses-05.jpg')" ; 
+	}
+	function  orgstyle()
+	{
+    document.getElementById("p1").style.color="blue";
+	// document.getElementById("d1").style.backgroundColor="gray"; 
+	document.getElementById("d1").style.width="300px%";
+	document.getElementById("d1").style.height="300px";
+	document.getElementById("d1").style.background="url('courses-01.jpg')" ; 
+	}
+
+    </script>
+</head>
+<body>
+<div onmouseover="changestyle()" onmouseout="orgstyle()" id="d1" style=" height:300px; width:300px; background-image:url('courses-01.jpg');;border:1px solid red;padding:30px;">
+mkpits solutions
+</div>
+<p id="p1">welcome to mkpits solutions </p>
+
+</body>
+</html>
