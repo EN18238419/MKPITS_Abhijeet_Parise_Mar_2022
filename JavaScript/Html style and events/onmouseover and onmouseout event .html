@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>onmouseover and onmouseout</title>
+    <!-- <script>
+        function ch_style()
+        {
+            document.getElementById("p1").style.color="red";
+            document.getElementById("d1").style.BackgroundColor="green";
+            document.getElementById("d1").style.width="50%";
+            document.getElementById("d1").style.height="70%";
+
+        }
+        function ori_style()
+        {
+            document.getElementById("d1").style.BackgroundColor="yellow";
+            document.getElementById("d1").style.width="10%";
+            document.getElementById("d1").style.height="40%";  
+        }
+    </script> -->
+    <script>
+    function  changestyle()
+	{
+	document.getElementById("p1").style.color="red";
+	document.getElementById("d1").style.backgroundColor="green";
+	document.getElementById("d1").style.width="50%";
+		document.getElementById("d1").style.height="50%";
+	}
+	function  changeorgstyle()
+	{
+
+	document.getElementById("d1").style.backgroundColor="gray";
+	document.getElementById("d1").style.width="30%";
+		document.getElementById("d1").style.height="30%";
+	}
+
+    </script>
+</head>
+<body>
+    <!-- <div onmouseover="ch_style();" onmouseout="ori_style();" style="background-color:gray;color:black;border:1px solid red;padding:30px;width:10%; height: 40%;;" id="d1">MKPITS Sevices</div>
+    <p  id="p1">This is paragraph</p>
+    <br><br>
+    <button onclick="ch_style();">change Style</button> -->
+    <div onmouseover="changestyle()" onmouseout="changeorgstyle()" id="d1" style="background-color:gray;color:black;border:1px solid red;">
+        mkpits solutions
+        </div>
+        <p id="p1">welcome to mkpits solutions </p>
+        <br><br>
+        <input type=button value=ok onclick="changestyle()" />
+        
+</body>
+</html>
