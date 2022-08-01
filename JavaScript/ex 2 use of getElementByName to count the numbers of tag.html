@@ -1,0 +1,34 @@
+<!-- Used to count the genders  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <script>
+        function checkh2()
+        {
+            var t_h2=document.getElementsByTagName("h2");
+            document.write("total h2 tags are: "+t_h2.length);
+        }
+        function checkh3()
+        {
+            var t_h3=document.getElementsByTagName("h3");
+            document.write("total h3 tags are: "+t_h3.length);
+        }
+
+    </script>
+</head>
+<body>
+    <h2>This is heading 1</h2>
+    <h2>This is heading 2</h2>
+    <h2>This is heading 3</h2>
+    <h2>This is heading 4</h2>
+
+    <h3>This is heading 1</h3>
+    <h3>This is heading 2</h3>
+    <button onclick="checkh2();">Check h2</button> <br><br>
+    <button onclick="checkh3();">Check h3</button>
+</body>
+</html>
