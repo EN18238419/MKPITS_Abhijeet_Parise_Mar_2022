@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>num validation</title>
+    <script>
+    function validate()
+    {  
+    var num=document.myform.num.value;  
+    if (isNaN(num))
+    {  
+      document.getElementById("numloc").innerHTML="Enter Numeric value only";  
+      return false;  
+    }
+    else
+    { 
+      
+      return true;  
+    }  
+    }  
+
+    </script>
+</head>
+<body>
+    <form name="myform" method="post" action="abc.php" onsubmit="return validate()" >  
+     Number: <input type="text" name="num"><span id="numloc"></span><br/>  
+    <input type="submit" value="submit">  
+    </form>  
+
+</body>
+</html>
