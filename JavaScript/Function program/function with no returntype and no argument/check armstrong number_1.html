@@ -1,0 +1,36 @@
+<!-- check three digit Armstrong number  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <script>
+        function fun()
+        {
+            var num=parseInt(prompt("enter number"));
+            var n1,n2,n3,bkp;
+            bkp=num;
+            n1=num%10;
+            num=num/10;
+            n2=parseInt(num)%10;
+            num=num/10;
+            n3=parseInt(num)%10;
+            res=n1*n1*n1+n2*n2*n2+n3*n3*n3;
+            if(res==bkp)
+            {
+                document.write("Enterd number is Armstrong number");
+            }
+            else
+            {
+                document.write("Enterd number is not Armstrong number");
+            }
+        }
+        fun();
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
