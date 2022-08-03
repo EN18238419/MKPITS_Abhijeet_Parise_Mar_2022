@@ -1,0 +1,22 @@
+// print string
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Print_string
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            String name;
+            Console.WriteLine("Enter any string");
+            name = Console.ReadLine();
+            Console.WriteLine("Enter string is: "+name);
+            Console.ReadLine();
+        }
+    }
+}
