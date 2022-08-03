@@ -1,0 +1,25 @@
+// A2.1  print greater number  among the two numbers
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace print_greater_num_among_2_num
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int n1, n2;
+            Console.WriteLine("enter first number");
+            n1=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter second number");
+            n2 = Convert.ToInt32(Console.ReadLine());
+            if (n1 > n2)
+                Console.WriteLine("First number is greater");
+            else
+                Console.WriteLine("Second number is greater");
+        }
+    }
+}
