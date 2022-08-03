@@ -1,0 +1,41 @@
+// A2.13  check whether entered character is vowel or not by switch case
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace check_vowels
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            char ch;
+            Console.WriteLine("enter character");
+            ch=Convert.ToChar(Console.ReadLine());
+            switch(ch)
+            {
+                case 'a':
+                    Console.WriteLine("Entered character is vowel");
+                    break;
+                case 'e':
+                    Console.WriteLine("Entered character is vowel");
+                    break;
+                case 'i':
+                    Console.WriteLine("Entered character is vowel");
+                    break;
+                case 'o':
+                    Console.WriteLine("Entered character is vowel");
+                    break;
+                case 'u':
+                    Console.WriteLine("Entered character is vowel");
+                    break;
+                default:
+                    Console.WriteLine("enter character is not vowel");
+                    break;
+            }
+        }
+    }
+}
