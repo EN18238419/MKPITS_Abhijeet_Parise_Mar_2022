@@ -1,0 +1,24 @@
+// accept age of a person and check whether the person is eligible for vote or not
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace vote_eligibility
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            byte age;
+            Console.WriteLine("enter age");
+            age = Convert.ToByte(Console.ReadLine());
+            if (age < 18)
+                Console.WriteLine("Not eligible for vote");
+            else
+                Console.WriteLine("Eligible for vote");
+
+        }
+    }
+}
