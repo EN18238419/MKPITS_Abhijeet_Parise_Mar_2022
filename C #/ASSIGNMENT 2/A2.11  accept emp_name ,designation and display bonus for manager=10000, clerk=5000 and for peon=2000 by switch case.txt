@@ -1,0 +1,38 @@
+// A2.11  accept emp_name ,designation and display bonus for manager=10000, clerk=5000 and for peon=2000 by switch case
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Display_bonus_s
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string name, des;
+            Console.WriteLine("enter Employee name");
+            name= Console.ReadLine();
+         
+            Console.WriteLine("enter Designation");
+            des = Console.ReadLine();
+            switch(des)
+            {
+                case "manager":
+                    Console.WriteLine("Bonus: 10000");
+                    break;
+                case "clerk":
+                    Console.WriteLine("Bonus: 5000");
+                    break;
+                case "peon":
+                    Console.WriteLine("Bonus: 2000");
+                    break;
+                default:
+                    Console.WriteLine("Invalid designation");
+                    break;
+            }
+        }
+    }
+}
