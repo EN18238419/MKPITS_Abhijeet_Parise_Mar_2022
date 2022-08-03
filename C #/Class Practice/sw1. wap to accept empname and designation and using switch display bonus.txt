@@ -1,0 +1,40 @@
+// wap to accept empname and designation and using switch display bonus
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace display_bonus
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string name, des;
+            int bonus=0;
+            Console.WriteLine("Enter employee name");
+            name=Console.ReadLine();
+            Console.WriteLine("Enter employee Designation");
+            des = Console.ReadLine();
+            switch(des)
+            {
+                case "manager":
+                    bonus = 10000;
+                    break;
+                case "clerk":
+                    bonus = 5000;
+                    break;
+                case "peon":
+                    bonus = 2000;
+                    break;
+                default:
+                    Console.WriteLine("invalid designation entered");
+                    break;
+            }
+            Console.WriteLine("Emp_name: " + name);
+            Console.WriteLine("Bonus: " + bonus);
+        }
+    }
+}
