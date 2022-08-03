@@ -1,0 +1,48 @@
+// 3- wap to accept 3 subject marks and print total , per and grade
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace print_total_per_and_grade
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            byte s1, s2, s3;
+            int total;
+            float per;
+            Console.WriteLine("Enter subject 1 marks");
+            s1=Convert.ToByte(Console.ReadLine());
+            Console.WriteLine("Enter subject 2 marks");
+            s2 = Convert.ToByte(Console.ReadLine());
+            Console.WriteLine("Enter subject 3 marks");
+            s3 = Convert.ToByte(Console.ReadLine());
+            total = s1 + s2 + s3;
+            Console.WriteLine("Total marks: "+total);
+            per = (total / 300.0f) * 100;
+            Console.WriteLine("Percentage: "+per);
+            if(per >=75)
+            {
+                Console.WriteLine("Distinction");
+
+            }
+            else if(per>=60 && per<75)
+            {
+                Console.WriteLine("First Division");
+            }
+            else if (per >= 40 && per < 60)
+            {
+                Console.WriteLine("Second Division");
+            }
+            else
+            {
+                Console.WriteLine("Fail");
+            }
+           
+
+        }
+    }
+}
