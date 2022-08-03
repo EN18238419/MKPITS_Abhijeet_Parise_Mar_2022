@@ -1,0 +1,35 @@
+// A3.5 check whether entered number is prime or not 
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Check_prime_num
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int i, num,cnt=0;
+            Console.WriteLine("enter number");
+            num=Convert.ToInt32(Console.ReadLine());
+            for(i=1;i<=num;i++)
+            {
+                if(num%i==0)
+                {
+                    cnt++;
+                }
+            }
+            if(cnt==2)
+            {
+                Console.WriteLine("Prime number");
+            }
+            else
+            {
+                Console.WriteLine("Not a prime number");
+            }
+        }
+    }
+}
