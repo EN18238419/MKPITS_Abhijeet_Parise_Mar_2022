@@ -1,0 +1,31 @@
+// A2.6 wap to accept productname, productrate , quantity display totalamount
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace total_amount
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int p_rate,p_quantity,t_amount;
+            string p_name;
+            Console.WriteLine("Enter product name");
+            p_name = Console.ReadLine();
+            Console.WriteLine("Enter product rate");
+            p_rate = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter product quantity");
+            p_quantity = Convert.ToInt32(Console.ReadLine());
+            t_amount = p_rate * p_quantity;
+            
+            Console.WriteLine("Total amount: " + t_amount);
+               
+                
+            
+        }
+    }
+}
