@@ -1,0 +1,24 @@
+// area of circle and circumference of circle
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Area_and_circumference_of_circle
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("enter radius");
+            int rad=Convert.ToInt32(Console.ReadLine());
+            float area = 3.14f * rad * rad;
+            float circ = 2 * 3.14f * rad;
+            Console.WriteLine("Area= " + area);
+            Console.WriteLine("Circumference= " + circ);
+            Console.ReadLine();
+        }
+    }
+}
