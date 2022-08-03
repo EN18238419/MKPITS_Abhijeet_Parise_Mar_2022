@@ -1,0 +1,39 @@
+// A2.7  wap to accept productname, productrate, quantity calculate totalamount , discount ie 50% if totalamount > 2000 else discount =10% of total amount
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace total_amount_with_discount
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int p_rate, p_quantity, t_amount;
+            float t_amt_with_disc;
+            string p_name;
+            Console.WriteLine("Enter product name");
+            p_name = Console.ReadLine();
+            Console.WriteLine("Enter product rate");
+            p_rate = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter product quantity");
+            p_quantity = Convert.ToInt32(Console.ReadLine());
+            t_amount = p_rate * p_quantity;
+            if(t_amount > 2000)
+            {
+                t_amt_with_disc = t_amount-(0.50f * t_amount);
+                Console.WriteLine("Total amount after discount: " + t_amt_with_disc);
+            }
+            else
+            {
+
+                t_amt_with_disc =t_amount - (0.10f * t_amount);
+                Console.WriteLine("Total amount after discount: " + t_amt_with_disc);
+            }
+            
+        }
+    }
+}
