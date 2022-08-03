@@ -1,0 +1,25 @@
+// A1.2  print addition of three number
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace Add_three_num
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("enter number");
+            int n1=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter number");
+            int n2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter number");
+            int n3 = Convert.ToInt32(Console.ReadLine());
+            int add = n1 + n2 + n3;
+            Console.WriteLine("Addition of three number= " + add);
+            Console.ReadLine();
+        }
+    }
+}
