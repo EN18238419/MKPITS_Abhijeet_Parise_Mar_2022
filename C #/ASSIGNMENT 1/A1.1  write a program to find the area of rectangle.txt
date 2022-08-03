@@ -1,0 +1,19 @@
+//A1.1  write a program to find the area of rectangle
+
+using System;
+namespace Area_of_rectangle
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter Length");
+            int len=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Width");
+            int wid = Convert.ToInt32(Console.ReadLine());
+            int area = len * wid;
+            Console.WriteLine("Area of Rectangle= " + area);
+
+        }
+    }
+}
