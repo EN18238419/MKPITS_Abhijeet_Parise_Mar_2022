@@ -1,0 +1,21 @@
+// short conversion
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace @short
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            short a;
+            Console.WriteLine("enter short number");
+            a= Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Entered short= " + a);
+            Console.ReadLine();
+        }
+    }
+}
