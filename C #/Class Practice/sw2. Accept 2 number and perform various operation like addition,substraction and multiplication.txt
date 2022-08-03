@@ -1,0 +1,43 @@
+//  Accept 2 number and perform various operation like addition,substraction and multiplication
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace perform_operation_on__two_num
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int n1, n2;
+            int res;
+            char op;
+            Console.WriteLine("Enter number");
+            n1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter number");
+            n2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter operator(+,-,*)");
+            op = Convert.ToChar(Console.ReadLine());
+            switch (op)
+            {
+                case '+':
+                    res = n1 + n2;
+                    Console.WriteLine("Addition: " + res);
+                    break;
+                case '-':
+                    res = n1 - n2;
+                    Console.WriteLine("Substraction: " + res);
+                    break;
+                case '*':
+                    res = n1 * n2;
+                    Console.WriteLine("Multiplication: " + res);
+                    break;
+                default:
+                    Console.WriteLine("invalid operator");
+                    break;
+            }
+        }
+    }
+}
