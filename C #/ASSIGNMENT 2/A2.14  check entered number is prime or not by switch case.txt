@@ -1,0 +1,36 @@
+// A2.14  check entered number is prime or not by switch case
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace check_prime_s
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int i,num,cnt=0;
+            Console.WriteLine("enter number");
+            num=Convert.ToInt32(Console.ReadLine());
+            for(i=1;i<=num;i++)
+            {
+                if(num%i==0)
+                {
+                    cnt++;
+                }
+            }
+            switch(cnt)
+            {
+                case 2:
+                    Console.WriteLine("Prime number");
+                    break;
+                default:
+                    Console.WriteLine("Not a prime number");
+                    break;
+            }
+        }
+    }
+}
