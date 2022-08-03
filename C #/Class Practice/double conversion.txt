@@ -1,0 +1,22 @@
+// double conversion
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Double
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double a;
+            Console.WriteLine("enter double number");
+            a = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Entered double= " + a);
+            Console.ReadLine();
+        }
+    }
+}
