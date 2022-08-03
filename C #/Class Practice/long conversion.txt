@@ -1,0 +1,22 @@
+// long conversion
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace @long
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            long a;
+            Console.WriteLine("enter long number");
+            a = Convert.ToInt64(Console.ReadLine());
+            Console.WriteLine("Entered long= " + a);
+            Console.ReadLine();
+        }
+    }
+}
