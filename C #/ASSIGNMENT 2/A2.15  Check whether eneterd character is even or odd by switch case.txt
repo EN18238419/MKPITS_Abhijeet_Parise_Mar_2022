@@ -1,0 +1,30 @@
+//  A2.15  Check whether eneterd character is even or odd by switch case
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace check_even_odd_s
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int r,num;
+            Console.WriteLine("enter any number");
+            num= Convert.ToInt32(Console.ReadLine());
+            r = num % 2;
+            switch(r)
+            {
+                case 0:
+                    Console.WriteLine("Even number");
+                    break;
+                default:
+                    Console.WriteLine("odd number");
+                    break;
+            }
+        }
+    }
+}
