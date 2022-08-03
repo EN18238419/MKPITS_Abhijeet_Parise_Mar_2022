@@ -1,0 +1,12 @@
+// Write a program to print hello Abhijeet
+
+namespace Hello
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello Abhijeet, Welcome to CSharp");
+        }
+    }
+}
