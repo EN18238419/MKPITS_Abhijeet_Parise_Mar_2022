@@ -1,0 +1,28 @@
+// print string using foreach loop
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace print_string_using_foreach_loop
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] name = new string[4];
+            name[0] = "Abhijeet";
+            name[1] = "is";
+            name[2] = "the";
+            name[3] = "best";
+
+            foreach(string i in name)
+            {
+                Console.Write(i+" ");
+            }
+            Console.WriteLine("");
+        }
+    }
+}
