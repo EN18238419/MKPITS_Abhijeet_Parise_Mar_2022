@@ -1,0 +1,26 @@
+// print square of number with no returntype and no argument method (without static)
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace square_of_num_without_static
+{
+    internal class Program
+    {
+         void square()
+        {
+            int n = 6;
+            int sq = n * n;
+            Console.WriteLine("square of number= " + sq);
+        }
+        static void Main(string[] args)
+        {
+            Program p = new Program();
+            p.square();
+            
+        }
+    }
+}
