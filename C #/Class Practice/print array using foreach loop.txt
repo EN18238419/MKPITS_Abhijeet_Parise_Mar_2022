@@ -1,0 +1,29 @@
+//print array using foreach loop
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace print_array_using_foreach_loop
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] num = new int[5];
+            num[0] = 11;
+            num[1] = 12;
+            num[2] = 13;
+            num[3] = 14;
+            num[4] = 15;
+
+            foreach(int i in num )
+            {
+                Console.WriteLine(i);
+            }
+
+        }
+    }
+}
