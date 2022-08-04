@@ -1,0 +1,29 @@
+// check entered number is even or odd with jumping statement (goto)
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace check_odd_even
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int n;
+            Console.WriteLine("Enter number");
+            n=Convert.ToInt32(Console.ReadLine());
+            if (n % 2 == 0) goto even;
+            Console.WriteLine("Number is Odd");
+            goto end;
+
+        even:
+            Console.WriteLine("Number is even");
+            goto end;
+        end:
+            Console.WriteLine("");
+        }
+    }
+}
