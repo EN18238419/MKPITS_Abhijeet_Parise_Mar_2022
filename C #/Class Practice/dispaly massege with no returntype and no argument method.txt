@@ -1,0 +1,22 @@
+// dispaly massege with no returntype and no argument method
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace welcome_to_C_sharp_1
+{
+    internal class Program
+    {
+        static void display()
+        {
+            Console.WriteLine("Welcome to C# ");
+        }
+        static void Main(string[] args)
+        {
+            display();
+        }
+    }
+}
