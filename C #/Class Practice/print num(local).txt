@@ -1,0 +1,26 @@
+// print number
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace print_num
+{
+    internal class Program
+    {
+       static void display()
+        {
+            int num = 6;    //local variable
+            Console.WriteLine("number "+num);  // we get o/p in this line because scope of variable is valid for this function
+        }
+
+
+        static void Main(string[] args)
+        {
+            display();
+            // Console.WriteLine("number1 "+num);    we do not get o/p in this line because scope of variable is not valid for this function
+        }
+    }
+}
