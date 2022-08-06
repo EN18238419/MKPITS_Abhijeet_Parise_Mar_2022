@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace array_clear
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            int[] num = { 8, 5, 1, 9, 4 };
+
+            Array.Clear(num, 2, 3);     // first 2 is index of array               second 3  is replace with 0 from index 2 to 4 
+
+            for (int i = 0; i < num.Length; i++)
+            {
+
+                Console.Write(num[i] + "\t");
+
+            }
+
+        }
+    }
+}
