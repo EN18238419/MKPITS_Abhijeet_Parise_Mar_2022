@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace pass_by_reference
+{
+    internal class Program
+    {
+        static void display(ref int n)
+        {
+            n++;
+            Console.WriteLine("num inside method " + n); //6
+
+        }
+        static void Main(string[] args)
+        {
+            int n = 5;
+            display(ref n);
+
+            Console.WriteLine("num inside main" + n); //6
+        }
+
+    }
+}
