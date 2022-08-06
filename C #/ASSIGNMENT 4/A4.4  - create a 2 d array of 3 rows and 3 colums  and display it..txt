@@ -1,0 +1,39 @@
+//A4.4  - create a 2 d array of 3 rows and 3 colums  and display it.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Create_TD_array
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //int[,] arr = { { 4, 8, 12 }, { 3, 6, 9 }, { 2, 4, 6 } };    //constant technique
+            int[,] arr = new int[3, 3];                                   //dynamic technique
+            Console.WriteLine("Enter array elements");
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    arr[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+
+            }
+            Console.WriteLine("");
+            for (int i=0;i<3;i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(arr[i,j]+"\t");
+                }
+                Console.WriteLine("");
+            }
+            
+
+        }
+    }
+}
