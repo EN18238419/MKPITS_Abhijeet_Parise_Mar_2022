@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace oops_3
+{
+    public class Employee
+    {
+        public int emp_no;
+        public string emp_name;
+        public int emp_salary;
+
+        public void getdata()
+        {
+            Console.Write("Enter Employee number: ");
+            emp_no=Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter Employee name: ");
+            emp_name =Console.ReadLine();
+            Console.Write("Enter Employee salary: ");
+            emp_salary = Convert.ToInt32(Console.ReadLine());
+        }
+        public void showdata()
+        {
+            Console.WriteLine("Employee number: " + emp_no);
+            Console.WriteLine("Employee name: " + emp_name);
+            Console.WriteLine("Employee salary: " + emp_salary);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Employee emp=new Employee();
+            emp.getdata();
+            Console.WriteLine();
+            emp.showdata();
+            Console.ReadLine();
+        }
+    }
+}
