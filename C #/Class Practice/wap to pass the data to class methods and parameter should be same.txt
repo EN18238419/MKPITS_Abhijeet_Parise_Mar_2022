@@ -1,0 +1,48 @@
+
+// pass the data to class methods and parameter should be same
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace oops_4
+{
+    public class Employee
+    {
+        public int emp_no;
+        public string emp_name;
+        public int emp_salary;
+
+        public void getdata(int emp_no,string emp_name,int emp_salary)
+        {
+            this.emp_no = emp_no;
+            this.emp_name = emp_name;
+            this.emp_salary = emp_salary;
+        }
+        public void showdata()
+        {
+            Console.WriteLine("Employee number: " + emp_no);
+            Console.WriteLine("Employee name: " + emp_name);
+            Console.WriteLine("Employee salary: " + emp_salary);
+        }
+
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Employee emp=new Employee();
+            Console.WriteLine("Enter Employee number: ");
+            int emp_no=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Employee name: ");
+             string emp_name =Console.ReadLine();
+            Console.WriteLine("Enter Employee salary: ");
+            int emp_salary = Convert.ToInt32(Console.ReadLine());
+
+            emp.getdata(emp_no,emp_name,emp_salary);
+            Console.WriteLine("");
+            emp.showdata();
+        }
+    }
+}
