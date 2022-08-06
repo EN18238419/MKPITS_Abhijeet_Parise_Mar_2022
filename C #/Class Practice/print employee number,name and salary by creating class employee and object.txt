@@ -1,0 +1,35 @@
+// print employee number,name and salary by creating class employee and object
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace oops_1
+{
+    public class Employee
+    {
+        public int emp_no;
+        public string emp_name;
+        public int emp_salary;
+
+    }
+    internal class Program
+    {
+
+        static void Main(string[] args)
+        {
+            Employee emp = new Employee();
+            emp.emp_no = 12345;
+            emp.emp_name = "Abhijeet";
+            emp.emp_salary = 50000;
+
+
+            Console.WriteLine("Employee number: " + emp.emp_no);
+            Console.WriteLine("Employee name: " + emp.emp_name);
+            Console.WriteLine("Employee salary: " + emp.emp_salary);
+            Console.ReadLine();
+        }
+    }
+}
