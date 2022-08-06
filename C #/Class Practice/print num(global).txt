@@ -1,0 +1,25 @@
+// print number
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace print_number
+{
+    internal class Program
+    {
+       static int num = 10;   // global variable    (it can be accessed in every method)
+        static void dispaly()
+        {
+
+            Console.WriteLine("num= " + num);   // scope of global variable is valid in this method
+        }
+        static void Main(string[] args)
+        {
+            dispaly();
+            Console.WriteLine("num1= " + num);   // scope of global variable is valid in this method
+        }
+    }
+}
