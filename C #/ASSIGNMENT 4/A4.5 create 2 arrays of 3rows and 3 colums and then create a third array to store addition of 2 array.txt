@@ -1,0 +1,38 @@
+// A4.5 create 2 arrays of 3rows and 3 colums and then create a third array to store addition of 2 array
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace create_third_arr
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[,] arr1 = { { 4, 8, 12 }, { 3, 6, 9 }, { 2, 4, 6 } };                 //constant technique
+            int[,] arr2 = { { 14, 18, 13 }, { 13, 16, 19 }, { 12, 14, 16 } };
+            int[,] arr3 = new int[6, 6];
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    arr3[i,j]= arr1[i, j] + arr2[i,j];
+                  
+                }
+                
+            }
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(arr3[i, j] + "\t");
+                }
+                Console.WriteLine("");
+            }
+
+        }
+    }
+}
