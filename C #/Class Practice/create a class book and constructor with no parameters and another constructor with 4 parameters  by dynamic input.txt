@@ -1,0 +1,51 @@
+// create a class book and constructor with no parameters and another constructor with 4 parameters
+//  dynamic i/p technique
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace constructor_2
+{
+    class Book
+    {
+        int book_id;
+        string title;
+        string author;
+        int price;
+
+        public Book(int book_id, string title, string author, int price)
+        {
+            this.book_id = book_id;
+            this.title = title;
+            this.author = author;
+            this.price = price;
+        }
+        public void display()
+        {
+            Console.WriteLine("book id : " + book_id);
+            Console.WriteLine("title : " + title);
+            Console.WriteLine("author : " + author);
+            Console.WriteLine("price : " + price);
+        }
+
+    }
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("enter book id");
+            int book_id = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter title");
+            string title = Console.ReadLine();
+            Console.WriteLine("enter author");
+            string author = Console.ReadLine();
+            Console.WriteLine("enter price");
+            int price = Convert.ToInt32(Console.ReadLine());
+            Book book2 = new Book(book_id,title,author,price);    //  four parameter (parameterized constructor)
+            book2.display();
+        }
+    }
+}
