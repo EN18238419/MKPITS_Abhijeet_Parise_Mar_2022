@@ -1,0 +1,52 @@
+// create a class book and constructor with no parameters and another constructor with 4 parameters
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace constructor_2
+{
+    class Book
+        {
+    int book_id;
+    string title;
+    string author;
+    int price;
+
+        public Book()
+        {
+            book_id = 2244;
+            title = "Amrut";
+            author = "asbnd";
+            price = 200;
+        }
+           
+        public Book(int book_id, string title,string author,int price)
+        {
+            this.book_id = book_id;
+            this.title = title;
+            this.author= author;
+            this.price= price;
+        }
+            public void display()
+        {
+            Console.WriteLine("book id : " + book_id);
+            Console.WriteLine("title : " + title);
+            Console.WriteLine("author : " + author);
+            Console.WriteLine("price : " + price);
+        }
+
+}
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Book book1 = new Book();         // no parameter
+            book1.display();
+            Book book2 = new Book(22, "Abhi", "abc", 100);    //  four parameter
+            book2.display();
+        }
+    }
+}
