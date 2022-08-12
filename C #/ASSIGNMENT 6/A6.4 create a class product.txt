@@ -1,0 +1,52 @@
+// A6.4 create a class product having fields productid,productname,price and quantity create a constructor with no parameters and create another parameterized constructor with 4 parameters
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace product_class
+{
+    class product
+    {
+        int product_id;
+        string product_name;
+        int product_price;
+        int product_quantity;
+
+        public product()
+        {
+            product_id = 1;
+            product_name = "Tecno";
+            product_price = 10000;
+            product_quantity = 1;
+        }
+        public product(int product_id, string product_name, int product_price , int product_quantity)
+        {
+            this.product_id = product_id;
+            this.product_name = product_name;
+            this.product_price = product_price;
+            this.product_quantity = product_quantity;
+        }
+        public void display()
+        {
+            Console.WriteLine("Product id: " + product_id);
+            Console.WriteLine("Product name: " + product_name);
+            Console.WriteLine("Product price: " + product_price);
+            Console.WriteLine("Product quantity: " + product_quantity);
+
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+                product pro=new product();
+                pro.display();
+                Console.WriteLine();
+                product p=new product(21, "Apple", 200, 6);
+                p.display();
+        }
+    }
+}
