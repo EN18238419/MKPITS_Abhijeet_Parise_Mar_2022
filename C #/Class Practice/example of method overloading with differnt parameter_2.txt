@@ -1,0 +1,59 @@
+// example of method overloading with differnt parameter
+using System;
+using System.Collections.Generic;
+
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace mtd2_overload
+{
+
+    class Book
+    {
+        String title;
+        string author;
+        int price;
+
+        public void getdata( String title, String author, int price)
+        {
+            this.title = title;
+            this.author = author;
+            this.price = price;
+
+        }
+        public void getdata( int price, String title, String author)
+        {
+            this.title = title;
+            this.author = author;
+            this.price = price;
+
+        }
+      
+        public void display()
+        {
+            Console.WriteLine("book title = " + title);
+            Console.WriteLine("book author= " + author);
+            Console.WriteLine("price = " + price);
+
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Book b = new Book();
+            b.getdata( "java", "james", 7000);
+            Console.WriteLine("-----------------book1 details ----------");
+            b.display();
+            Console.WriteLine();
+
+
+            Book b1 = new Book();
+            b1.getdata(5000, "c", "Dennis ritchie");
+            Console.WriteLine("-----------------book2 details ----------");
+            b1.display();
+
+        }
+    }
+}
