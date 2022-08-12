@@ -1,0 +1,58 @@
+// A6.3 create a class employee having fields empno,empname , designation and salary create a constructor with no parameters and create another parameterized constructor with 4 parameters
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace create_a_class_employee
+{
+    class employee
+    {
+        int emp_no;
+        string emp_name;
+        string emp_des;
+        int emp_sal;
+
+        public employee()
+        {
+            emp_no = 21;
+            emp_name = "Abhijeet";
+            emp_des = "Software Developer";
+            emp_sal = 100000;
+
+
+        }
+        public employee(int emp_no, string emp_name, string emp_des, int emp_sal)
+        {
+            this.emp_no = emp_no;
+            this.emp_name = emp_name;
+            this.emp_des = emp_des;
+            this.emp_sal = emp_sal;
+        }
+
+        public void display()
+        {
+            Console.WriteLine("Employee number: " + emp_no);
+            Console.WriteLine("Employee name: " + emp_name);
+            Console.WriteLine("Employee designation: " + emp_des);
+            Console.WriteLine("Employee salary: " + emp_sal);
+
+        }
+
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            employee emp = new employee();
+            emp.display();
+            Console.WriteLine("");
+
+            employee emp2 = new employee(02,"krishna","manager",100000);
+            emp2.display();
+
+        }
+    }
+}
