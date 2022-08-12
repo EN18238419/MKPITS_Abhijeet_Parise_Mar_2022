@@ -1,0 +1,42 @@
+// create a class book having member variables bookid , title, author, and price and a constructor with no parameters and method display.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Constrctor_1
+{
+    class Book      // created a book class
+    {
+        public int book_id;        // member/field/attributes
+        public string title;
+        public string author;
+        public int price;
+
+        public Book()            // class name and method name should be same name.
+        {
+            book_id = 123;
+            title = "Wings";
+            author= "abc";
+            price = 2134;
+
+        }
+        public void display()
+        {
+            Console.WriteLine("Book_id: "+book_id);
+            Console.WriteLine("Title: "+title);
+            Console.WriteLine("Author: "+author);
+            Console.WriteLine("Price: "+price);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Book b = new Book();
+            b.display();
+        }
+    }
+}
