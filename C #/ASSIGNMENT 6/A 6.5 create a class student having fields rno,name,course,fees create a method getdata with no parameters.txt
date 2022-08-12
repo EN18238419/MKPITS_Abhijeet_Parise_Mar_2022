@@ -1,0 +1,91 @@
+//A 6.5 create a class student having fields rno,name,course,fees create a method getdata with no parameters ,
+//create overloaded method with 2 parameters, 3 parameters, 4 parameters and display method.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace create_student_class
+{
+    class student
+    {
+       int roll_no;
+        string name;
+        string course;
+        int fees;
+
+
+    public void getdata()
+        {
+             roll_no=1;
+             name="Abhi";
+             course="Java";
+             fees=7000;
+        }
+        public void getdata(int roll_no)
+        {
+            this.roll_no = roll_no;
+
+        }
+        public void getdata(int roll_no,string name)
+        {
+            this.roll_no = roll_no;
+            this.name = name;
+        }
+        public void getdata(int roll_no, string name,string course)
+        {
+            this.roll_no = roll_no;
+            this.name = name;
+            this.course = course;
+        }
+        public void getdata(int roll_no, string name, string course,int fees)
+        {
+            this.roll_no = roll_no;
+            this.name = name;
+            this.course = course;
+            this.fees = fees;
+        }
+
+        public void display()
+        {
+            Console.WriteLine("Roll number: "+roll_no);
+            Console.WriteLine("Name: "+name);
+            Console.WriteLine("Course: "+course);
+            Console.WriteLine("Fees: "+fees);
+        }
+    }
+        
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            student stud = new student();
+            stud.getdata();
+            stud.display();
+            Console.WriteLine("");
+
+            student stud1 = new student();
+            stud1.getdata(2);
+            stud1.display();
+            Console.WriteLine("");
+
+            student stud2 = new student();
+            stud2.getdata(3,"abhi");
+            stud2.display();
+            Console.WriteLine("");
+
+            student stud3 = new student();
+            stud3.getdata(4,"abhijeet","python");
+            stud3.display();
+            Console.WriteLine("");
+
+            student stud4 = new student();
+            stud4.getdata(5,"krishna","C++",5000);
+            stud4.display();
+            Console.WriteLine("");
+        }
+    }
+}
