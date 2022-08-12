@@ -1,0 +1,58 @@
+// A7.2  create a base class person having field name and address andcreate a derived class employee having field
+// emp number and salary  by inheriting methods
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+using System.Text;
+using System.Threading.Tasks;
+
+namespace inheritance_2
+{
+    public class Person
+    {
+        String name;
+        String address;
+        public void getPersonData(String name, String address)
+        {
+            this.name = name;
+            this.address = address;
+        }
+        public void displayPersonData()
+        {
+            Console.WriteLine("name : " + name);
+            Console.WriteLine("address : " + address);
+
+        }
+    }
+    public class Employee : Person
+    {
+        int emp_no;
+        int salary;
+        public void getStudentData(int emp_no, int salary)
+        {
+            this.emp_no = emp_no;
+            this.salary = salary;
+        }
+        public void displayStudentData()
+        {
+            Console.WriteLine("Employee number : " + emp_no);
+            Console.WriteLine("salary : " + salary);
+
+        }
+    }
+
+    class TestInheritance
+    {
+        public static void Main(string[] args)
+        {
+            Employee emp = new Employee();
+            emp.getPersonData("Abhijeet", "Yavatmal");
+            emp.getStudentData(2244, 70000);
+            emp.displayStudentData();
+            emp.displayPersonData();
+
+        }
+    }
+
+}
