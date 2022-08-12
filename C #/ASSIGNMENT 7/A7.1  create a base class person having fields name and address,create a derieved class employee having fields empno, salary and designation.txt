@@ -1,0 +1,40 @@
+// A7.1 : create a base class person having fields name and address,create a derieved class employee having fields empno, salary and designation.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace inheritance_1
+{
+    class person
+    {
+        internal string name;
+        internal string address;
+    }
+    class employee : person
+    {
+        internal int emp_no;
+        internal int salary;
+        internal string designation;
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            employee emp=new employee();
+            emp.name = "Abhijeet";
+            emp.address = "Yavatmal";
+            emp.emp_no = 2244;
+            emp.salary = 70000;
+            emp.designation = "developer";
+            Console.WriteLine("Name: " + emp.name);
+            Console.WriteLine("Address: " + emp.address);
+            Console.WriteLine("Employee number: " + emp.emp_no);
+            Console.WriteLine("Designation: " + emp.designation);
+            Console.WriteLine("Salary: " + emp.salary);
+
+        }
+    }
+}
