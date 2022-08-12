@@ -1,0 +1,41 @@
+// A6.1 create a class product having fields productid,productname,price and quantity create a constructor with no parameters and method display
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace create_a_product_class
+{
+    class product
+    {
+        int product_id;
+        string product_name;
+        int price;
+        int quantity;
+
+        public product()
+        {
+            product_id = 123;
+            product_name = "apple";
+            price = 200;
+            quantity = 4;
+        }
+        public void display()
+        {
+            Console.WriteLine("Product id: "+ product_id);
+            Console.WriteLine("Product name: " + product_name);
+            Console.WriteLine("Product price: " + price);
+            Console.WriteLine("Product quantity: " + quantity);
+
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            product product = new product();
+            product.display();
+        }
+    }
+}
