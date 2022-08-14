@@ -1,0 +1,57 @@
+// 12. Write a C# Sharp program to read roll no, name and marks of three subjects and calculate the total, percentage and division.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace calculate_total_per_and_div
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int roll_no,p,c,ca,total;
+            float per; 
+            string name,grade;
+            Console.Write("Input the Roll Number of the student: ");
+            roll_no =Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input the name of the student: ");
+            name= Console.ReadLine();
+            Console.Write("Input the marks of Physics: ");
+            p = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input the marks of Chemistry: ");
+            c = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input the marks of Computer Application: ");
+            ca = Convert.ToInt32(Console.ReadLine());
+            total = p + c + ca;
+            per = (total / 300.0f) * 100;
+            if(per>=75)
+            {
+                grade = "Distinction";
+            }
+            else if(per>=60 && per<75)
+            {
+                grade = "First Division";
+            }
+            else if (per >= 40 && per < 60)
+            {
+                grade = "Second Division";
+            }
+            else 
+            {
+                grade = "Fail";
+            }
+
+            Console.WriteLine("\nRoll No: " + roll_no);
+            Console.WriteLine("Name of Student: " + name);
+            Console.WriteLine("Marks in Physics: " + p);
+            Console.WriteLine("Marks in Chemistry: " + c);
+            Console.WriteLine("Marks in Computer Application: " + ca);
+            Console.WriteLine("Total Marks: "+total);
+            Console.WriteLine("Percentage: "+per);
+            Console.WriteLine("Division: "+grade);
+        }
+    }
+}
