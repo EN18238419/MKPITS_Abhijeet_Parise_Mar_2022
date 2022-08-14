@@ -1,0 +1,53 @@
+//  24. Write a program in C# Sharp which is a Menu-Driven Program to compute the area of the various geometrical shape.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace menue_driven_of_geometrical_shape
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int r, l, b, side;
+            double area;
+            Console.WriteLine("press 1: area of circle");
+            Console.WriteLine("press 2: area of square");
+            Console.WriteLine("press 3: area of rectangle");
+            Console.Write("Enter your choice: ");          
+            int choice=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine();
+            if (choice==1)
+            {
+                Console.Write("Enter radius of circle: ");
+                r=Convert.ToInt32(Console.ReadLine());
+                area = 3.14 * r * r;
+                Console.WriteLine("Area of circle= "+area);
+            }
+            else if (choice == 2)
+            {
+                Console.Write("Enter side of square: ");
+                side = Convert.ToInt32(Console.ReadLine());
+                area = side * side;
+                Console.WriteLine("Area of square= " + area);
+            }
+            else if (choice == 3)
+            {
+                Console.Write("Enter length of rectangle: ");
+                l = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter width of rectangle: ");
+                b = Convert.ToInt32(Console.ReadLine());
+                area = l * b;
+                Console.WriteLine("Area of rectangle= " + area);
+            }
+            else
+            {
+                Console.WriteLine("Invalid Choice");
+              
+            }
+        }
+    }
+}
