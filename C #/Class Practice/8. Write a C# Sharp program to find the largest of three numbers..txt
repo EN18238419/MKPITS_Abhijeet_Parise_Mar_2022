@@ -1,0 +1,36 @@
+// 8. Write a C# Sharp program to find the largest of three numbers.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Find_largest_among_three_number
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int n1, n2, n3;
+            Console.Write("Enter first number: ");
+            n1=Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter second number: ");
+            n2 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter third number: ");
+            n3 = Convert.ToInt32(Console.ReadLine());
+            if(n1>n2&& n1>n3)
+            {
+                Console.WriteLine("the 1st number is greatest among three  ");
+            }
+            else if(n2>n1&& n2>n3)
+            {
+                Console.WriteLine("the 2nd number is greatest among three  ");
+            }
+            else
+            {
+                Console.WriteLine("the 3rd number is greatest among three  ");
+            }
+        }
+    }
+}
