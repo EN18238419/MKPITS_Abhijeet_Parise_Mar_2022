@@ -1,0 +1,45 @@
+// 11. Write a C# Sharp program to calculate root of Quadratic Equation.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace root_of_quadratic_eqn
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int a, b, c;
+            double r1, r2, temp;
+            Console.Write("Enter value of a: ");
+            a = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter value of b: ");
+            b = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter value of c: ");
+            c = Convert.ToInt32(Console.ReadLine());
+            temp = (b * b) - (4 * a * c);
+            if (temp > 0)
+            {
+                r1 = (-b + Math.Sqrt(temp)) / (2 * a);
+                r2 = (-b - Math.Sqrt(temp)) / (2 * a);
+                Console.WriteLine("First root: " + r1);
+                Console.WriteLine("Second root: " + r2);
+            }
+            else if (temp == 0)
+            {
+                r1 = -b / 2 * a;
+                r2 = r1;
+                Console.WriteLine("First root: " + r1);
+                Console.WriteLine("Second root: " + r2);
+            }
+            else
+            {
+                Console.WriteLine("Roots are imaginary\nNo solution");
+            }
+
+        }
+    }
+}
