@@ -1,0 +1,55 @@
+// 10. Write a C# Sharp program to find the eligibility of admission for a professional course based on the following criteria:
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace eligibility_for_admission
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int p, c, m;
+            Console.Write("Input the marks obtained in Physics: ");
+            p = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input the marks obtained in Chemistry: ");
+            c = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input the marks obtained in Math: ");
+            m = Convert.ToInt32(Console.ReadLine());
+
+            if (m >= 65)
+            {
+                if (p >= 55)
+                {
+                    if (c >= 50)
+                    {
+                        if (p + c + m >= 180)
+                        {
+                            Console.WriteLine("The candidate is eligible for admission.");
+                        }
+                        else
+                        {
+                            Console.WriteLine("The candidate is not eligible for admission.");
+                        }
+
+                    }
+                    else
+                    {
+                        Console.WriteLine("The candidate is not eligible for admission.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("The candidate is not eligible for admission.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("The candidate is not eligible for admission.");
+            }
+        }
+    }
+}
