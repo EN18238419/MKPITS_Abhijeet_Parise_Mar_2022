@@ -1,0 +1,46 @@
+//  19. Write a program in C# Sharp to accept a grade and declare the equivalent description 
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace grade_description
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            char grade;
+            string description;
+            Console.Write("Enter grade: ");
+            grade=Convert.ToChar(Console.ReadLine());
+             if(grade=='E')
+            {
+                description = "Excellent";
+            }
+            else if (grade == 'V')
+            {
+                description = "Very Good";
+            }
+            else if (grade == 'G')
+            {
+                description = "Good";
+            }
+            else if (grade == 'A')
+            {
+                description = "Average";
+            }
+            else if (grade == 'F')
+            {
+                description = "Fail";
+            }
+            else
+            {
+                description = "invalid choice";
+            }
+            Console.WriteLine(description);
+        }
+    }
+}
