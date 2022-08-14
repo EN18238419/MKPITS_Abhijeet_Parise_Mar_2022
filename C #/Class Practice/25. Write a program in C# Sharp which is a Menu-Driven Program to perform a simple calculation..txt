@@ -1,0 +1,79 @@
+// 25. Write a program in C# Sharp which is a Menu-Driven Program to perform a simple calculation.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace simple_calculation_by_menue_driven
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine();
+            Console.WriteLine("press 1: Addition");
+            Console.WriteLine("press 2: Substraction");
+            Console.WriteLine("press 3: Multiplication");
+            Console.WriteLine("press 4: Division");
+            Console.WriteLine("press 5: Exit");
+            Console.WriteLine();
+            Console.Write("Enter your Choice: ");
+            int choice = Convert.ToInt32(Console.ReadLine());
+            if (choice == 1)
+            {
+
+                int n1, n2;
+                Console.Write("Enter the first integer: ");
+                n1 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter the second integer: ");
+                n2 = Convert.ToInt32(Console.ReadLine());
+                int add = n1 + n2;
+                Console.WriteLine("The addition of " + n1 + " and " + n2 + " is " + add);
+            }
+            else if (choice == 2)
+            {
+
+                int n1, n2;
+                Console.Write("Enter the first integer: ");
+                n1 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter the second integer: ");
+                n2 = Convert.ToInt32(Console.ReadLine());
+                int sub = n1 - n2;
+                Console.WriteLine("The substraction of " + n1 + " and " + n2 + " is " + sub);
+            }
+            else if (choice == 3)
+            {
+
+                int n1, n2;
+                Console.Write("Enter the first integer: ");
+                n1 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter the second integer: ");
+                n2 = Convert.ToInt32(Console.ReadLine());
+                int mul = n1 * n2;
+                Console.WriteLine("The multiplication of " + n1 + " and " + n2 + " is " + mul);
+            }
+            else if (choice == 4)
+            {
+
+                float n1, n2;
+                Console.Write("Enter the first integer: ");
+                n1 = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter the second integer: ");
+                n2 = Convert.ToInt32(Console.ReadLine());
+                float div = n1/n2;
+                Console.WriteLine("The division of " + n1 + " and " + n2 + " is " + div);
+            }
+            else if (choice == 5)
+            {
+                Console.WriteLine("Exited");
+            }
+            else
+            {
+
+                Console.WriteLine("invalid choice");
+            }
+        }
+    }
+}
