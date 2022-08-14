@@ -1,0 +1,30 @@
+//1. Write a C# Sharp program to accept two integers and check whether they are equal or not.
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace check_equal
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int n1, n2;
+            Console.Write("Enter first number: ");
+            n1=Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter second  number: ");
+            n2 = Convert.ToInt32(Console.ReadLine());
+
+            if(n1==n2)
+            {
+                Console.WriteLine(n1+" and "+n2+" are equal ");
+            }
+            else
+            {
+                Console.WriteLine(n1 + " and " + n2 + " are not equal ");
+            }
+        }
+    }
+}
