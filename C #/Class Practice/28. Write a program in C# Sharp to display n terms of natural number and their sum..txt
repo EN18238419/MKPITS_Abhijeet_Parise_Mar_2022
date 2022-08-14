@@ -1,0 +1,28 @@
+// 28. Write a program in C# Sharp to display n terms of natural number and their sum.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace display_nth_term_of_nautral_num
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int i,num, sum = 0;
+            Console.Write("enter any natural number:");
+            num=Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("The first "+num+" natural number is:");
+            for (i = 1; i <=num; i++)
+            {
+                sum = sum + i;
+                Console.Write(i + " ");
+
+            }
+            Console.WriteLine("\nthe sum of natural number upto "+num+" terms: "+sum);
+        }
+    }
+}
