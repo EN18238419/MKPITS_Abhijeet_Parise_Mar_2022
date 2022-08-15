@@ -1,0 +1,38 @@
+//  39.  Write a program in C# Sharp to make such a pattern like a pyramid with an asterisk.
+//   *
+//  * *
+// * * *
+//* * * *
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace print_pyramid_pattern13
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int i, j;
+            for (i = 1; i <= 4; i++)
+            {
+                for (j = 1; j <= 4; j++)
+                {
+                    if(i+j>=5)
+                    {
+                        Console.Write("* ");
+                    }
+                    else
+                    {
+                        Console.Write(" ");
+                    }
+                    
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}
