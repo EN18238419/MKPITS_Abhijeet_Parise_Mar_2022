@@ -1,0 +1,29 @@
+// 32. Write a program in C# Sharp to display the multiplication table vertically from 1 to n.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace display_table_vertically_upto_n_integer
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int i,j, num, mul;
+            Console.Write("Enter number: ");
+            num = Convert.ToInt32(Console.ReadLine());
+            for(j=1;j<=num;j++)
+            { 
+            for (i = 1; i <= 10; i++)
+            {
+                mul = j* i;
+                Console.WriteLine(j + " x " + i + " = " + mul);
+            }
+            Console.WriteLine();
+            }
+        }
+    }
+}
