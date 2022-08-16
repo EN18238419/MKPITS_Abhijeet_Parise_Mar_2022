@@ -1,0 +1,73 @@
+// create a base class account having fields actno,bal and methods deposit and showbalance
+// create a derived class current inherited from account class and override the deposit method
+// create another derived class saving inherited from account class and override the deposit method (add interest with amount)
+// (dynamic input technique)
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace create_a_base_class_account_2
+{
+    internal class Program
+    {
+        class Account
+        {
+            public long actno;
+            public int balance = 1000;
+
+            public virtual String deposit(long actno, int amount)
+            {
+                return "deposit method of account class";
+            }
+            public String showbalance()
+            {
+                return "balance amount : " + balance;
+
+            }
+        }
+
+        class Current : Account
+        {
+            public override string deposit(long actno, int amount)
+            {
+                this.actno = actno;
+                balance = balance + amount;
+                return "amount deposited successfully without interest in current class";
+            }
+        }
+
+        class Saving : Account
+        {
+            public override string deposit(long actno, int amount)
+            {
+                this.actno = actno;
+                int interest = 1000;
+                balance = balance + amount + interest;
+                return "amount deposited successfully with interest in saving class";
+            }
+        }
+        static void Main(string[] args)
+        {
+            Console.Write("enter account no: ");
+            long actno = Convert.ToInt64(Console.ReadLine());
+            Console.Write("enter amount to be deposited: ");
+            int amount = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine();
+            Account curr = new Current();
+            String res = curr.deposit(actno, amount);
+            Console.WriteLine("account no is: " + curr.actno);
+            Console.WriteLine(res);
+            string res1 = curr.showbalance();
+            Console.WriteLine(res1);
+            Console.WriteLine();
+            Account sav = new Saving();
+            String res2 = sav.deposit(actno, amount);
+            Console.WriteLine("account no is " + sav.actno);
+            Console.WriteLine(res2);
+            string res3 = sav.showbalance();
+            Console.WriteLine(res3);
+        }
+    }
+}
