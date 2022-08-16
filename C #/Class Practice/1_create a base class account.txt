@@ -1,0 +1,49 @@
+// create a base class account having fields actno,bal and methods deposit and showbalance
+// create a derieved class current inherited from account class and override the deposit method
+// (Constant input Technique)
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace create_a_base_class_account
+{
+    class Account
+    {
+        public long actno;
+        public int balance = 1000;
+
+        public virtual String deposit(long actno, int amount)
+        {
+            return "deposit method of account class";
+        }
+        public String showbalance()
+        {
+            return "balance amount : " + balance;
+        }
+    }
+    class Current : Account
+    {
+
+        public override string deposit(long actno, int amount)
+        {
+            this.actno = actno;
+            balance = balance + amount;
+            return "amount deposited successfully in current class";
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Account act = new Current();
+            String res = act.deposit(34036544000, 10000);
+            Console.WriteLine("account no is " + act.actno);
+            Console.WriteLine(res);
+            String res1 = act.showbalance();
+            Console.WriteLine(res1);
+
+        }
+    }
+}
