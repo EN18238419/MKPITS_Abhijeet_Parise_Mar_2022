@@ -1,0 +1,29 @@
+// example of accessing the field by reference variable which refers to the instance of derived class.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace accessing_the_field_by_reference_variable
+{
+    internal class Program
+    {
+        public class Animal
+        {
+
+            public string color = "black";
+
+        }
+        public class Dog : Animal
+        {
+            public string color = "brown";
+        }
+        static void Main(string[] args)
+        {
+            Animal animal = new Animal();
+            Console.WriteLine(animal.color);
+        }
+    }
+}
