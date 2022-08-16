@@ -1,0 +1,33 @@
+//  simple example of base keyword in C# which accesses the field of base class.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace base_keyword_2
+{
+    internal class Program
+    {
+        class person
+        {
+            public string name = "Abhi";
+        }
+        class student : person
+        {
+            public string name = "Krishna";
+
+            public void display()
+            {
+                Console.WriteLine("name = " + name); 
+                Console.WriteLine("base class field name = " + base.name);
+            }
+        }
+        static void Main(string[] args)
+        {
+            student student = new student();
+            student.display();
+        }
+    }
+}
