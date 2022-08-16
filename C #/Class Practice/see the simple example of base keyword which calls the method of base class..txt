@@ -1,0 +1,37 @@
+//  see the simple example of base keyword which calls the method of base class.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace base_class__accessing
+{
+    internal class Program
+    {
+        public class Animal
+        {
+            public void eat()
+            {
+
+                Console.WriteLine("eating...");
+            }
+        }
+
+        public class Dog : Animal
+        {
+            public void eat()
+            {
+                base.eat(); 
+                Console.WriteLine("eating bread...");
+            }
+
+        }
+        static void Main(string[] args)
+        {
+            Dog dog = new Dog();
+            dog.eat();  
+        }
+    }
+}
