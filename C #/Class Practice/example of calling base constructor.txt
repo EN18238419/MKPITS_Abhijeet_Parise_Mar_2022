@@ -1,0 +1,46 @@
+//  example of calling base constructor.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace calling_base_constructor
+{
+    internal class Program
+    {
+        class person
+        {
+            string name = "ABC";
+            public person()
+            {
+                Console.WriteLine("person class constructor called");
+            }
+            public void display()
+            {
+
+                Console.WriteLine("base class field name = " + name);
+            }
+        }
+        class student : person
+        {
+            string name = "XYZ";
+            public student()
+            {
+                Console.WriteLine("student class constructor called");
+            }
+            public void display()
+            {
+                base.display();
+                Console.WriteLine("child class field name = " + name);
+            }
+
+        }
+        static void Main(string[] args)
+        {
+            student student = new student();
+            student.display();
+        }
+    }
+}
