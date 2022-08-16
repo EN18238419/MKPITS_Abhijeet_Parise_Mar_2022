@@ -1,0 +1,33 @@
+//  example of calling_base_class_constructor_by_derived_class
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace calling_base_class_constructor_by_derived_class
+{
+    internal class Program
+    {
+        public class Animal
+        {
+            public Animal()
+            {
+                Console.WriteLine("calling base class animal ");
+            }
+        }
+        public class Dog : Animal
+        {
+            public Dog()
+            {
+                Console.WriteLine("calling derived class dog");
+            }
+
+        }
+        static void Main(string[] args)
+        {
+            Dog dog = new Dog();
+        }
+    }
+}
