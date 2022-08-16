@@ -1,0 +1,34 @@
+// simple example of base keyword in C# which accesses the field of base class.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace base_keyword_use
+{
+    public class Animal
+    {
+        public string color = "Green";
+    }
+    public class Dog : Animal
+    {
+        string color = "blue";
+        public void showColor()
+        {
+
+            Console.WriteLine(base.color);
+            Console.WriteLine(color);
+        }
+
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Dog dog = new Dog();
+            dog.showColor();
+        }
+    }
+}
