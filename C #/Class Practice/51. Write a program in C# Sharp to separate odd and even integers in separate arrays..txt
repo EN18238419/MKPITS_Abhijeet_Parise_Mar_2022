@@ -1,0 +1,50 @@
+// 51. Write a program in C# Sharp to separate odd and even integers in separate arrays.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace separate_odd_and_even_integer_in_an_array
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] arr = new int[10];
+            int i, n;
+            Console.Write("Enter the size of array: ");
+            n = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Input " + n + " element in array: ");
+            for (i = 0; i < n; i++)
+            {
+                Console.Write("Element-" + i + ": ");
+                arr[i] = Convert.ToInt32(Console.ReadLine());
+
+            }
+            Console.WriteLine("The Even elements are: ");
+            for (i = 0; i < n; i++)
+            {
+                if(arr[i]%2 == 0)
+                {
+                    Console.Write(arr[i]+" ");
+                }
+         
+
+            }
+            Console.WriteLine("\nThe odd elements are: ");
+            for (i = 0; i < n; i++)
+            {
+                if (arr[i] % 2 != 0)
+                {
+                    Console.Write(arr[i] + " ");
+                }
+
+
+            }
+            Console.WriteLine();
+
+        }
+    }
+}
