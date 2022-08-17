@@ -1,0 +1,51 @@
+// 52. Write a program in C# Sharp to sort elements of array in ascending order.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace sort_array_element_in_ascending_order
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] arr = new int[10];
+            int i, j,temp,n;
+            Console.Write("Enter the size of array: ");
+            n = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Input " + n + " element in array: ");
+            for (i = 0; i < n; i++)
+            {
+                Console.Write("Element-" + i + ": ");
+                arr[i] = Convert.ToInt32(Console.ReadLine());
+
+            }
+            // Array.Sort(arr);
+            for (i = 0; i < n; i++)
+            {
+                for(j=i+1;j<n;j++)
+                {
+                    if (arr[i] > arr[j])
+                    {
+                        temp = arr[i];
+                        arr[i] = arr[j];
+                        arr[j] = temp;
+                    }
+                }
+
+
+            }
+            Console.WriteLine("\nElements of the array in sorted ascending order:");
+            for (i = 0; i < n; i++)
+            {
+                Console.Write(arr[i] + " ");
+
+
+            }
+            Console.WriteLine();
+        }
+    }
+}
