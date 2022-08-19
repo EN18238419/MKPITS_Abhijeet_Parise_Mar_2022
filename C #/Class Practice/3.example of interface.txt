@@ -1,0 +1,36 @@
+// 
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace interface_3
+{
+    interface bank
+    {
+        String deposit(long actno, int amt);
+    }
+    class saving : bank
+    {
+        long actno;
+        int bal = 1000;
+        public String deposit(long actno, int amt)
+        {
+            this.actno = actno;
+            bal = bal + amt;
+            return "deposited successfully successfully ,bal is " + bal;
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            bank b;
+            b = new saving();
+            String res = b.deposit(34036544000, 15000);
+            Console.WriteLine(res);
+        }
+    }
+}
