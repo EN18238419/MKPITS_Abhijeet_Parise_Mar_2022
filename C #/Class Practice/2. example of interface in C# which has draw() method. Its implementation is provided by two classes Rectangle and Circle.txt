@@ -1,0 +1,40 @@
+// 2. example of interface in C# which has draw() method. Its implementation is provided by two classes Rectangle and Circle.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace interface_2
+{
+    public interface Drawing
+    {
+        void draw();
+    }
+    public class Rectangle : Drawing
+    {
+        public void draw()
+        {
+            Console.WriteLine("drawing rectangle");
+        }
+    }
+    public class Circle : Drawing
+    {
+        public void draw()
+        {
+            Console.WriteLine("drawing circle");
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Drawing d;
+            d = new Circle();
+            d.draw();
+            d = new Rectangle();
+            d.draw();
+        }
+    }
+}
