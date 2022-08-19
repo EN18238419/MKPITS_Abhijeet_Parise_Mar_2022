@@ -1,0 +1,55 @@
+//  5. the example of interface in C# which has deposit and widraw method. Its implementation is provided by class saving
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace interface_5
+{
+    interface bank
+    {
+        String deposit(long actno, int amt);
+        String withdraw(long actno, int amt);
+    }
+    class account
+    {
+        public long actno;
+        public long bal = 2000;
+        public String showbalance()
+        {
+            return "balance is " + bal;
+        }
+    }
+    class saving : account, bank
+    {
+        public String deposit(long actno, int amt)
+        {
+
+            this.actno = actno;
+            bal = bal + amt;
+            return "deposited successfully successfully ,balance is " + bal;
+        }
+        public String withdraw(long actno, int amt)
+        {
+            this.actno = actno;
+            bal = bal - amt;
+            return "withdraw successfully ,balance is " + bal;
+        }
+        internal class Program
+        {
+            static void Main(string[] args)
+            {
+                saving b;
+                b = new saving();
+                String res = b.deposit(34036544000, 2000);
+                Console.WriteLine(res);
+
+                string res1 = b.withdraw(34036544000, 500);
+                Console.WriteLine(res1);
+                Console.WriteLine(b.showbalance());
+            }
+        }
+    }
+}
