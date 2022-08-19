@@ -1,0 +1,40 @@
+// 4. the example of interface in C# which has deposite() method. Its implementation is provided by class: saving.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace interface_4
+{
+    interface bank
+    {
+        String deposit(long actno, int amt);
+    }
+    class account
+    {
+        public long actno;
+        public int bal = 1000;
+    }
+    class saving : account, bank
+    {
+
+        public String deposit(long actno, int amt)
+        {
+            this.actno = actno;
+            bal = bal + amt;
+            return ("deposited successfully successfully ,bal is " + bal);
+        }
+        internal class Program
+        {
+            static void Main(string[] args)
+            {
+                bank b;
+                b = new saving();
+                String res = b.deposit(34036544000, 50000);
+                Console.WriteLine(res);
+            }
+        }
+    }
+}
