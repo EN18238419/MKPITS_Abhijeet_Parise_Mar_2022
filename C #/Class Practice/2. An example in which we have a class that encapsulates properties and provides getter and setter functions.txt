@@ -1,0 +1,30 @@
+// An example in which we have a class that encapsulates properties and provides getter and setter functions.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace encapsulation_2
+{
+    class Student
+    {
+        public string iD { get; set; }
+        public string name { get; set; }
+        public string email { get; set; }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Student student = new Student();
+            student.iD = "2244";
+            student.name = "Abhijeet Parise";
+            student.email = "abhijeetparise2000@gmail.com";
+            Console.WriteLine("ID = " + student.iD);
+            Console.WriteLine("Name = " + student.name);
+            Console.WriteLine("Email = " + student.email);
+        }
+    }
+}
