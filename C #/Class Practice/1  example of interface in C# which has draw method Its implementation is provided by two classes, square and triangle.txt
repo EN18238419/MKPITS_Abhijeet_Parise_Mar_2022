@@ -1,0 +1,40 @@
+// 1. example of interface in C# which has draw() method. Its implementation is provided by two classes: square and triangle.
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace interface_1
+{
+    interface shape
+    {
+        void draw();
+    }
+    class square : shape
+    {
+        public void draw()
+        {
+            Console.WriteLine("draw method of square class");
+        }
+    }
+    class triangle : shape
+
+    {
+        public void draw()
+        {
+            Console.WriteLine("draw method of triangle class");
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            shape s = new square();
+            s.draw();
+            s = new triangle();
+            s.draw();
+        }
+    }
+}
