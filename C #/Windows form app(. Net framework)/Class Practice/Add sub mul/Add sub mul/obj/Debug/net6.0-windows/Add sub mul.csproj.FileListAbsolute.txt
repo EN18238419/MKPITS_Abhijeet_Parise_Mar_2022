@@ -1,0 +1,34 @@
+E:\Windows form\Add sub mul\Add sub mul\bin\Debug\net6.0-windows\Add sub mul.exe
+E:\Windows form\Add sub mul\Add sub mul\bin\Debug\net6.0-windows\Add sub mul.deps.json
+E:\Windows form\Add sub mul\Add sub mul\bin\Debug\net6.0-windows\Add sub mul.runtimeconfig.json
+E:\Windows form\Add sub mul\Add sub mul\bin\Debug\net6.0-windows\Add sub mul.dll
+E:\Windows form\Add sub mul\Add sub mul\bin\Debug\net6.0-windows\Add sub mul.pdb
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.csproj.AssemblyReference.cache
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add_sub_mul.Form1.resources
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.csproj.GenerateResource.cache
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.AssemblyInfoInputs.cache
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.AssemblyInfo.cs
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.csproj.CoreCompileInputs.cache
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.dll
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\refint\Add sub mul.dll
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.pdb
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.genruntimeconfig.cache
+E:\Windows form\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\ref\Add sub mul.dll
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\bin\Debug\net6.0-windows\Add sub mul.exe
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\bin\Debug\net6.0-windows\Add sub mul.deps.json
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\bin\Debug\net6.0-windows\Add sub mul.runtimeconfig.json
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\bin\Debug\net6.0-windows\Add sub mul.dll
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\bin\Debug\net6.0-windows\Add sub mul.pdb
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.csproj.AssemblyReference.cache
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add_sub_mul.Form1.resources
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.csproj.GenerateResource.cache
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.AssemblyInfoInputs.cache
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.AssemblyInfo.cs
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.csproj.CoreCompileInputs.cache
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.dll
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\refint\Add sub mul.dll
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.pdb
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\Add sub mul.genruntimeconfig.cache
+E:\Windows form\22-08-2022\Add sub mul\Add sub mul\obj\Debug\net6.0-windows\ref\Add sub mul.dll
