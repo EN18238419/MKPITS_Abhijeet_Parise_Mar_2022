@@ -1,0 +1,11 @@
+E:\Windows form\Today\numeric up down\numeric up down\bin\Debug\numeric up down.exe.config
+E:\Windows form\Today\numeric up down\numeric up down\bin\Debug\numeric up down.exe
+E:\Windows form\Today\numeric up down\numeric up down\bin\Debug\numeric up down.pdb
+E:\Windows form\Today\numeric up down\numeric up down\obj\Debug\numeric up down.csproj.AssemblyReference.cache
+E:\Windows form\Today\numeric up down\numeric up down\obj\Debug\numeric up down.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\numeric up down\numeric up down\obj\Debug\numeric_up_down.Form1.resources
+E:\Windows form\Today\numeric up down\numeric up down\obj\Debug\numeric_up_down.Properties.Resources.resources
+E:\Windows form\Today\numeric up down\numeric up down\obj\Debug\numeric up down.csproj.GenerateResource.cache
+E:\Windows form\Today\numeric up down\numeric up down\obj\Debug\numeric up down.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\numeric up down\numeric up down\obj\Debug\numeric up down.exe
+E:\Windows form\Today\numeric up down\numeric up down\obj\Debug\numeric up down.pdb
