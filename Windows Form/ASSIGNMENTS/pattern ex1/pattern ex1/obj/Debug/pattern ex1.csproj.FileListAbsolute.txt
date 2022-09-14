@@ -1,0 +1,11 @@
+E:\Windows form\ASSIGNMENT\pattern ex1\pattern ex1\bin\Debug\pattern ex1.exe.config
+E:\Windows form\ASSIGNMENT\pattern ex1\pattern ex1\bin\Debug\pattern ex1.exe
+E:\Windows form\ASSIGNMENT\pattern ex1\pattern ex1\bin\Debug\pattern ex1.pdb
+E:\Windows form\ASSIGNMENT\pattern ex1\pattern ex1\obj\Debug\pattern ex1.csproj.AssemblyReference.cache
+E:\Windows form\ASSIGNMENT\pattern ex1\pattern ex1\obj\Debug\pattern ex1.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\ASSIGNMENT\pattern ex1\pattern ex1\obj\Debug\pattern_ex1.Form1.resources
+E:\Windows form\ASSIGNMENT\pattern ex1\pattern ex1\obj\Debug\pattern_ex1.Properties.Resources.resources
+E:\Windows form\ASSIGNMENT\pattern ex1\pattern ex1\obj\Debug\pattern ex1.csproj.GenerateResource.cache
+E:\Windows form\ASSIGNMENT\pattern ex1\pattern ex1\obj\Debug\pattern ex1.csproj.CoreCompileInputs.cache
+E:\Windows form\ASSIGNMENT\pattern ex1\pattern ex1\obj\Debug\pattern ex1.exe
+E:\Windows form\ASSIGNMENT\pattern ex1\pattern ex1\obj\Debug\pattern ex1.pdb
