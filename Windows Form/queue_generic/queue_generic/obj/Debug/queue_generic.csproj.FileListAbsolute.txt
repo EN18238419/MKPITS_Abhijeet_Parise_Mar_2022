@@ -1,0 +1,8 @@
+E:\Windows form\Today\queue_generic\queue_generic\bin\Debug\queue_generic.exe.config
+E:\Windows form\Today\queue_generic\queue_generic\bin\Debug\queue_generic.exe
+E:\Windows form\Today\queue_generic\queue_generic\bin\Debug\queue_generic.pdb
+E:\Windows form\Today\queue_generic\queue_generic\obj\Debug\queue_generic.csproj.AssemblyReference.cache
+E:\Windows form\Today\queue_generic\queue_generic\obj\Debug\queue_generic.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\queue_generic\queue_generic\obj\Debug\queue_generic.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\queue_generic\queue_generic\obj\Debug\queue_generic.exe
+E:\Windows form\Today\queue_generic\queue_generic\obj\Debug\queue_generic.pdb
