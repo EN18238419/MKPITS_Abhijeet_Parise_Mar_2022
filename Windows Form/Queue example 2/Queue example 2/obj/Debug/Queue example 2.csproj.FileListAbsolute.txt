@@ -1,0 +1,8 @@
+E:\Windows form\Today\Queue example 2\Queue example 2\bin\Debug\Queue example 2.exe.config
+E:\Windows form\Today\Queue example 2\Queue example 2\bin\Debug\Queue example 2.exe
+E:\Windows form\Today\Queue example 2\Queue example 2\bin\Debug\Queue example 2.pdb
+E:\Windows form\Today\Queue example 2\Queue example 2\obj\Debug\Queue example 2.csproj.AssemblyReference.cache
+E:\Windows form\Today\Queue example 2\Queue example 2\obj\Debug\Queue example 2.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Queue example 2\Queue example 2\obj\Debug\Queue example 2.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Queue example 2\Queue example 2\obj\Debug\Queue example 2.exe
+E:\Windows form\Today\Queue example 2\Queue example 2\obj\Debug\Queue example 2.pdb
