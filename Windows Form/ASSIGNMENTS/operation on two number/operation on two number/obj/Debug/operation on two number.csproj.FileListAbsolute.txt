@@ -1,0 +1,11 @@
+E:\Windows form\ASSIGNMENT\operation on two number\operation on two number\obj\Debug\operation on two number.csproj.AssemblyReference.cache
+E:\Windows form\ASSIGNMENT\operation on two number\operation on two number\obj\Debug\operation on two number.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\ASSIGNMENT\operation on two number\operation on two number\obj\Debug\operation_on_two_number.Form1.resources
+E:\Windows form\ASSIGNMENT\operation on two number\operation on two number\obj\Debug\operation_on_two_number.Properties.Resources.resources
+E:\Windows form\ASSIGNMENT\operation on two number\operation on two number\obj\Debug\operation on two number.csproj.GenerateResource.cache
+E:\Windows form\ASSIGNMENT\operation on two number\operation on two number\obj\Debug\operation on two number.csproj.CoreCompileInputs.cache
+E:\Windows form\ASSIGNMENT\operation on two number\operation on two number\bin\Debug\operation on two number.exe.config
+E:\Windows form\ASSIGNMENT\operation on two number\operation on two number\bin\Debug\operation on two number.exe
+E:\Windows form\ASSIGNMENT\operation on two number\operation on two number\bin\Debug\operation on two number.pdb
+E:\Windows form\ASSIGNMENT\operation on two number\operation on two number\obj\Debug\operation on two number.exe
+E:\Windows form\ASSIGNMENT\operation on two number\operation on two number\obj\Debug\operation on two number.pdb
