@@ -1,0 +1,11 @@
+E:\Windows form\29-08-2022\ArrayList 3\ArrayList 3\bin\Debug\ArrayList 3.exe.config
+E:\Windows form\29-08-2022\ArrayList 3\ArrayList 3\bin\Debug\ArrayList 3.exe
+E:\Windows form\29-08-2022\ArrayList 3\ArrayList 3\bin\Debug\ArrayList 3.pdb
+E:\Windows form\29-08-2022\ArrayList 3\ArrayList 3\obj\Debug\ArrayList 3.csproj.AssemblyReference.cache
+E:\Windows form\29-08-2022\ArrayList 3\ArrayList 3\obj\Debug\ArrayList 3.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\29-08-2022\ArrayList 3\ArrayList 3\obj\Debug\ArrayList_3.Form1.resources
+E:\Windows form\29-08-2022\ArrayList 3\ArrayList 3\obj\Debug\ArrayList_3.Properties.Resources.resources
+E:\Windows form\29-08-2022\ArrayList 3\ArrayList 3\obj\Debug\ArrayList 3.csproj.GenerateResource.cache
+E:\Windows form\29-08-2022\ArrayList 3\ArrayList 3\obj\Debug\ArrayList 3.csproj.CoreCompileInputs.cache
+E:\Windows form\29-08-2022\ArrayList 3\ArrayList 3\obj\Debug\ArrayList 3.exe
+E:\Windows form\29-08-2022\ArrayList 3\ArrayList 3\obj\Debug\ArrayList 3.pdb
