@@ -1,0 +1,11 @@
+E:\Windows form\ASSIGNMENT\prime number\prime number\bin\Debug\prime number.exe.config
+E:\Windows form\ASSIGNMENT\prime number\prime number\bin\Debug\prime number.exe
+E:\Windows form\ASSIGNMENT\prime number\prime number\bin\Debug\prime number.pdb
+E:\Windows form\ASSIGNMENT\prime number\prime number\obj\Debug\prime number.csproj.AssemblyReference.cache
+E:\Windows form\ASSIGNMENT\prime number\prime number\obj\Debug\prime number.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\ASSIGNMENT\prime number\prime number\obj\Debug\prime_number.Form1.resources
+E:\Windows form\ASSIGNMENT\prime number\prime number\obj\Debug\prime_number.Properties.Resources.resources
+E:\Windows form\ASSIGNMENT\prime number\prime number\obj\Debug\prime number.csproj.GenerateResource.cache
+E:\Windows form\ASSIGNMENT\prime number\prime number\obj\Debug\prime number.csproj.CoreCompileInputs.cache
+E:\Windows form\ASSIGNMENT\prime number\prime number\obj\Debug\prime number.exe
+E:\Windows form\ASSIGNMENT\prime number\prime number\obj\Debug\prime number.pdb
