@@ -1,0 +1,11 @@
+E:\Windows form\Today\Progress bar\Progress bar\bin\Debug\Progress bar.exe.config
+E:\Windows form\Today\Progress bar\Progress bar\bin\Debug\Progress bar.exe
+E:\Windows form\Today\Progress bar\Progress bar\bin\Debug\Progress bar.pdb
+E:\Windows form\Today\Progress bar\Progress bar\obj\Debug\Progress bar.csproj.AssemblyReference.cache
+E:\Windows form\Today\Progress bar\Progress bar\obj\Debug\Progress bar.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Progress bar\Progress bar\obj\Debug\Progress_bar.Form1.resources
+E:\Windows form\Today\Progress bar\Progress bar\obj\Debug\Progress_bar.Properties.Resources.resources
+E:\Windows form\Today\Progress bar\Progress bar\obj\Debug\Progress bar.csproj.GenerateResource.cache
+E:\Windows form\Today\Progress bar\Progress bar\obj\Debug\Progress bar.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Progress bar\Progress bar\obj\Debug\Progress bar.exe
+E:\Windows form\Today\Progress bar\Progress bar\obj\Debug\Progress bar.pdb
