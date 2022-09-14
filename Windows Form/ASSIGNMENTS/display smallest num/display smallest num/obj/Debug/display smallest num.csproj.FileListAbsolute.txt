@@ -1,0 +1,11 @@
+E:\Windows form\ASSIGNMENT\display smallest num\display smallest num\bin\Debug\display smallest num.exe.config
+E:\Windows form\ASSIGNMENT\display smallest num\display smallest num\bin\Debug\display smallest num.exe
+E:\Windows form\ASSIGNMENT\display smallest num\display smallest num\bin\Debug\display smallest num.pdb
+E:\Windows form\ASSIGNMENT\display smallest num\display smallest num\obj\Debug\display smallest num.csproj.AssemblyReference.cache
+E:\Windows form\ASSIGNMENT\display smallest num\display smallest num\obj\Debug\display smallest num.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\ASSIGNMENT\display smallest num\display smallest num\obj\Debug\display_smallest_num.Form1.resources
+E:\Windows form\ASSIGNMENT\display smallest num\display smallest num\obj\Debug\display_smallest_num.Properties.Resources.resources
+E:\Windows form\ASSIGNMENT\display smallest num\display smallest num\obj\Debug\display smallest num.csproj.GenerateResource.cache
+E:\Windows form\ASSIGNMENT\display smallest num\display smallest num\obj\Debug\display smallest num.csproj.CoreCompileInputs.cache
+E:\Windows form\ASSIGNMENT\display smallest num\display smallest num\obj\Debug\display smallest num.exe
+E:\Windows form\ASSIGNMENT\display smallest num\display smallest num\obj\Debug\display smallest num.pdb
