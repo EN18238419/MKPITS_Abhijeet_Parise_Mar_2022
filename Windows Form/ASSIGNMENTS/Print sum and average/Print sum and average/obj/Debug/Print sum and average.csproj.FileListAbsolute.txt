@@ -1,0 +1,11 @@
+E:\Windows form\23-08-2022\ASSIGNMENT\Print sum and average\Print sum and average\bin\Debug\Print sum and average.exe.config
+E:\Windows form\23-08-2022\ASSIGNMENT\Print sum and average\Print sum and average\bin\Debug\Print sum and average.exe
+E:\Windows form\23-08-2022\ASSIGNMENT\Print sum and average\Print sum and average\bin\Debug\Print sum and average.pdb
+E:\Windows form\23-08-2022\ASSIGNMENT\Print sum and average\Print sum and average\obj\Debug\Print sum and average.csproj.AssemblyReference.cache
+E:\Windows form\23-08-2022\ASSIGNMENT\Print sum and average\Print sum and average\obj\Debug\Print sum and average.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\23-08-2022\ASSIGNMENT\Print sum and average\Print sum and average\obj\Debug\Print_sum_and_average.Form1.resources
+E:\Windows form\23-08-2022\ASSIGNMENT\Print sum and average\Print sum and average\obj\Debug\Print_sum_and_average.Properties.Resources.resources
+E:\Windows form\23-08-2022\ASSIGNMENT\Print sum and average\Print sum and average\obj\Debug\Print sum and average.csproj.GenerateResource.cache
+E:\Windows form\23-08-2022\ASSIGNMENT\Print sum and average\Print sum and average\obj\Debug\Print sum and average.csproj.CoreCompileInputs.cache
+E:\Windows form\23-08-2022\ASSIGNMENT\Print sum and average\Print sum and average\obj\Debug\Print sum and average.exe
+E:\Windows form\23-08-2022\ASSIGNMENT\Print sum and average\Print sum and average\obj\Debug\Print sum and average.pdb
