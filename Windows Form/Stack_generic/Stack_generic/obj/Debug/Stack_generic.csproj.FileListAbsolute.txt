@@ -1,0 +1,8 @@
+E:\Windows form\Today\Stack_generic\Stack_generic\bin\Debug\Stack_generic.exe.config
+E:\Windows form\Today\Stack_generic\Stack_generic\bin\Debug\Stack_generic.exe
+E:\Windows form\Today\Stack_generic\Stack_generic\bin\Debug\Stack_generic.pdb
+E:\Windows form\Today\Stack_generic\Stack_generic\obj\Debug\Stack_generic.csproj.AssemblyReference.cache
+E:\Windows form\Today\Stack_generic\Stack_generic\obj\Debug\Stack_generic.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Stack_generic\Stack_generic\obj\Debug\Stack_generic.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Stack_generic\Stack_generic\obj\Debug\Stack_generic.exe
+E:\Windows form\Today\Stack_generic\Stack_generic\obj\Debug\Stack_generic.pdb
