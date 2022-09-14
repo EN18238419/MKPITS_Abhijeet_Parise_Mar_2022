@@ -1,0 +1,11 @@
+E:\Windows form\Today\test checkbox\test checkbox\bin\Debug\test checkbox.exe.config
+E:\Windows form\Today\test checkbox\test checkbox\bin\Debug\test checkbox.exe
+E:\Windows form\Today\test checkbox\test checkbox\bin\Debug\test checkbox.pdb
+E:\Windows form\Today\test checkbox\test checkbox\obj\Debug\test checkbox.csproj.AssemblyReference.cache
+E:\Windows form\Today\test checkbox\test checkbox\obj\Debug\test checkbox.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\test checkbox\test checkbox\obj\Debug\test_checkbox.Form1.resources
+E:\Windows form\Today\test checkbox\test checkbox\obj\Debug\test_checkbox.Properties.Resources.resources
+E:\Windows form\Today\test checkbox\test checkbox\obj\Debug\test checkbox.csproj.GenerateResource.cache
+E:\Windows form\Today\test checkbox\test checkbox\obj\Debug\test checkbox.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\test checkbox\test checkbox\obj\Debug\test checkbox.exe
+E:\Windows form\Today\test checkbox\test checkbox\obj\Debug\test checkbox.pdb
