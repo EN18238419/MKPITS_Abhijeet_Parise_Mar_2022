@@ -1,0 +1,8 @@
+E:\Windows form\29-08-2022\product_class_by_arralist\product_class_by_arralist\bin\Debug\product_class_by_arralist.exe.config
+E:\Windows form\29-08-2022\product_class_by_arralist\product_class_by_arralist\bin\Debug\product_class_by_arralist.exe
+E:\Windows form\29-08-2022\product_class_by_arralist\product_class_by_arralist\bin\Debug\product_class_by_arralist.pdb
+E:\Windows form\29-08-2022\product_class_by_arralist\product_class_by_arralist\obj\Debug\product_class_by_arralist.csproj.AssemblyReference.cache
+E:\Windows form\29-08-2022\product_class_by_arralist\product_class_by_arralist\obj\Debug\product_class_by_arralist.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\29-08-2022\product_class_by_arralist\product_class_by_arralist\obj\Debug\product_class_by_arralist.csproj.CoreCompileInputs.cache
+E:\Windows form\29-08-2022\product_class_by_arralist\product_class_by_arralist\obj\Debug\product_class_by_arralist.exe
+E:\Windows form\29-08-2022\product_class_by_arralist\product_class_by_arralist\obj\Debug\product_class_by_arralist.pdb
