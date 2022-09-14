@@ -1,0 +1,11 @@
+E:\Windows form\Today\Linkedlist_2\Linkedlist_2\bin\Debug\Linkedlist_2.exe.config
+E:\Windows form\Today\Linkedlist_2\Linkedlist_2\bin\Debug\Linkedlist_2.exe
+E:\Windows form\Today\Linkedlist_2\Linkedlist_2\bin\Debug\Linkedlist_2.pdb
+E:\Windows form\Today\Linkedlist_2\Linkedlist_2\obj\Debug\Linkedlist_2.csproj.AssemblyReference.cache
+E:\Windows form\Today\Linkedlist_2\Linkedlist_2\obj\Debug\Linkedlist_2.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Linkedlist_2\Linkedlist_2\obj\Debug\Linkedlist_2.Form1.resources
+E:\Windows form\Today\Linkedlist_2\Linkedlist_2\obj\Debug\Linkedlist_2.Properties.Resources.resources
+E:\Windows form\Today\Linkedlist_2\Linkedlist_2\obj\Debug\Linkedlist_2.csproj.GenerateResource.cache
+E:\Windows form\Today\Linkedlist_2\Linkedlist_2\obj\Debug\Linkedlist_2.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Linkedlist_2\Linkedlist_2\obj\Debug\Linkedlist_2.exe
+E:\Windows form\Today\Linkedlist_2\Linkedlist_2\obj\Debug\Linkedlist_2.pdb
