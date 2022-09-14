@@ -1,0 +1,17 @@
+E:\Windows form\greater number among two num\greater number among two num\bin\Debug\net6.0-windows\greater number among two num.exe
+E:\Windows form\greater number among two num\greater number among two num\bin\Debug\net6.0-windows\greater number among two num.deps.json
+E:\Windows form\greater number among two num\greater number among two num\bin\Debug\net6.0-windows\greater number among two num.runtimeconfig.json
+E:\Windows form\greater number among two num\greater number among two num\bin\Debug\net6.0-windows\greater number among two num.dll
+E:\Windows form\greater number among two num\greater number among two num\bin\Debug\net6.0-windows\greater number among two num.pdb
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\greater number among two num.csproj.AssemblyReference.cache
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\greater_number_among_two_num.Form1.resources
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\greater number among two num.csproj.GenerateResource.cache
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\greater number among two num.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\greater number among two num.AssemblyInfoInputs.cache
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\greater number among two num.AssemblyInfo.cs
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\greater number among two num.csproj.CoreCompileInputs.cache
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\greater number among two num.dll
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\refint\greater number among two num.dll
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\greater number among two num.pdb
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\greater number among two num.genruntimeconfig.cache
+E:\Windows form\greater number among two num\greater number among two num\obj\Debug\net6.0-windows\ref\greater number among two num.dll
