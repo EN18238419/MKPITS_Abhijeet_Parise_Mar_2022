@@ -1,0 +1,11 @@
+E:\Windows form\Today\dictionary_ex_2\dictionary_ex_2\bin\Debug\dictionary_ex_2.exe.config
+E:\Windows form\Today\dictionary_ex_2\dictionary_ex_2\bin\Debug\dictionary_ex_2.exe
+E:\Windows form\Today\dictionary_ex_2\dictionary_ex_2\bin\Debug\dictionary_ex_2.pdb
+E:\Windows form\Today\dictionary_ex_2\dictionary_ex_2\obj\Debug\dictionary_ex_2.csproj.AssemblyReference.cache
+E:\Windows form\Today\dictionary_ex_2\dictionary_ex_2\obj\Debug\dictionary_ex_2.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\dictionary_ex_2\dictionary_ex_2\obj\Debug\dictionary_ex_2.Form1.resources
+E:\Windows form\Today\dictionary_ex_2\dictionary_ex_2\obj\Debug\dictionary_ex_2.Properties.Resources.resources
+E:\Windows form\Today\dictionary_ex_2\dictionary_ex_2\obj\Debug\dictionary_ex_2.csproj.GenerateResource.cache
+E:\Windows form\Today\dictionary_ex_2\dictionary_ex_2\obj\Debug\dictionary_ex_2.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\dictionary_ex_2\dictionary_ex_2\obj\Debug\dictionary_ex_2.exe
+E:\Windows form\Today\dictionary_ex_2\dictionary_ex_2\obj\Debug\dictionary_ex_2.pdb
