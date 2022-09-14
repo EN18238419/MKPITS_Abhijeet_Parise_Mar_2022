@@ -1,0 +1,17 @@
+E:\Windows form\print from 1 to that no\print from 1 to that no\bin\Debug\net6.0-windows\print from 1 to that no.exe
+E:\Windows form\print from 1 to that no\print from 1 to that no\bin\Debug\net6.0-windows\print from 1 to that no.deps.json
+E:\Windows form\print from 1 to that no\print from 1 to that no\bin\Debug\net6.0-windows\print from 1 to that no.runtimeconfig.json
+E:\Windows form\print from 1 to that no\print from 1 to that no\bin\Debug\net6.0-windows\print from 1 to that no.dll
+E:\Windows form\print from 1 to that no\print from 1 to that no\bin\Debug\net6.0-windows\print from 1 to that no.pdb
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\print from 1 to that no.csproj.AssemblyReference.cache
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\print_from_1_to_that_no.Form1.resources
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\print from 1 to that no.csproj.GenerateResource.cache
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\print from 1 to that no.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\print from 1 to that no.AssemblyInfoInputs.cache
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\print from 1 to that no.AssemblyInfo.cs
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\print from 1 to that no.csproj.CoreCompileInputs.cache
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\print from 1 to that no.dll
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\refint\print from 1 to that no.dll
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\print from 1 to that no.pdb
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\print from 1 to that no.genruntimeconfig.cache
+E:\Windows form\print from 1 to that no\print from 1 to that no\obj\Debug\net6.0-windows\ref\print from 1 to that no.dll
