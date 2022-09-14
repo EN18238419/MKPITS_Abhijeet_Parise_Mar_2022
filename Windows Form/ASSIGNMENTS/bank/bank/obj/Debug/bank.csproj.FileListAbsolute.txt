@@ -1,0 +1,6 @@
+E:\Windows form\Today\bank\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+E:\Windows form\Today\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\bank\bank\bin\Debug\bank.dll
+E:\Windows form\Today\bank\bank\bin\Debug\bank.pdb
+E:\Windows form\Today\bank\bank\obj\Debug\bank.dll
+E:\Windows form\Today\bank\bank\obj\Debug\bank.pdb
