@@ -1,0 +1,8 @@
+E:\Windows form\29-08-2022\ArrayList 4\ArrayList 4\bin\Debug\ArrayList 4.exe.config
+E:\Windows form\29-08-2022\ArrayList 4\ArrayList 4\bin\Debug\ArrayList 4.exe
+E:\Windows form\29-08-2022\ArrayList 4\ArrayList 4\bin\Debug\ArrayList 4.pdb
+E:\Windows form\29-08-2022\ArrayList 4\ArrayList 4\obj\Debug\ArrayList 4.csproj.AssemblyReference.cache
+E:\Windows form\29-08-2022\ArrayList 4\ArrayList 4\obj\Debug\ArrayList 4.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\29-08-2022\ArrayList 4\ArrayList 4\obj\Debug\ArrayList 4.csproj.CoreCompileInputs.cache
+E:\Windows form\29-08-2022\ArrayList 4\ArrayList 4\obj\Debug\ArrayList 4.exe
+E:\Windows form\29-08-2022\ArrayList 4\ArrayList 4\obj\Debug\ArrayList 4.pdb
