@@ -1,0 +1,11 @@
+E:\Windows form\Today\create a 2d array ex 4\create a 2d array ex 4\bin\Debug\create a 2d array ex 4.exe.config
+E:\Windows form\Today\create a 2d array ex 4\create a 2d array ex 4\bin\Debug\create a 2d array ex 4.exe
+E:\Windows form\Today\create a 2d array ex 4\create a 2d array ex 4\bin\Debug\create a 2d array ex 4.pdb
+E:\Windows form\Today\create a 2d array ex 4\create a 2d array ex 4\obj\Debug\create a 2d array ex 4.csproj.AssemblyReference.cache
+E:\Windows form\Today\create a 2d array ex 4\create a 2d array ex 4\obj\Debug\create a 2d array ex 4.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\create a 2d array ex 4\create a 2d array ex 4\obj\Debug\create_a_2d_array_ex_4.Form1.resources
+E:\Windows form\Today\create a 2d array ex 4\create a 2d array ex 4\obj\Debug\create_a_2d_array_ex_4.Properties.Resources.resources
+E:\Windows form\Today\create a 2d array ex 4\create a 2d array ex 4\obj\Debug\create a 2d array ex 4.csproj.GenerateResource.cache
+E:\Windows form\Today\create a 2d array ex 4\create a 2d array ex 4\obj\Debug\create a 2d array ex 4.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\create a 2d array ex 4\create a 2d array ex 4\obj\Debug\create a 2d array ex 4.exe
+E:\Windows form\Today\create a 2d array ex 4\create a 2d array ex 4\obj\Debug\create a 2d array ex 4.pdb
