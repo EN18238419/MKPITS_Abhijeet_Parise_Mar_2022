@@ -1,0 +1,8 @@
+E:\Windows form\Today\sorted list ex 1\sorted list ex 1\bin\Debug\sorted list ex 1.exe.config
+E:\Windows form\Today\sorted list ex 1\sorted list ex 1\bin\Debug\sorted list ex 1.exe
+E:\Windows form\Today\sorted list ex 1\sorted list ex 1\bin\Debug\sorted list ex 1.pdb
+E:\Windows form\Today\sorted list ex 1\sorted list ex 1\obj\Debug\sorted list ex 1.csproj.AssemblyReference.cache
+E:\Windows form\Today\sorted list ex 1\sorted list ex 1\obj\Debug\sorted list ex 1.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\sorted list ex 1\sorted list ex 1\obj\Debug\sorted list ex 1.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\sorted list ex 1\sorted list ex 1\obj\Debug\sorted list ex 1.exe
+E:\Windows form\Today\sorted list ex 1\sorted list ex 1\obj\Debug\sorted list ex 1.pdb
