@@ -1,0 +1,14 @@
+E:\Windows form\Today\Calculate form\Calculate form\bin\Debug\Calculate form.exe.config
+E:\Windows form\Today\Calculate form\Calculate form\bin\Debug\Calculate form.exe
+E:\Windows form\Today\Calculate form\Calculate form\bin\Debug\Calculate form.pdb
+E:\Windows form\Today\Calculate form\Calculate form\bin\Debug\calculate.dll
+E:\Windows form\Today\Calculate form\Calculate form\bin\Debug\calculate.pdb
+E:\Windows form\Today\Calculate form\Calculate form\obj\Debug\Calculate form.csproj.AssemblyReference.cache
+E:\Windows form\Today\Calculate form\Calculate form\obj\Debug\Calculate form.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Calculate form\Calculate form\obj\Debug\Calculate_form.Form1.resources
+E:\Windows form\Today\Calculate form\Calculate form\obj\Debug\Calculate_form.Properties.Resources.resources
+E:\Windows form\Today\Calculate form\Calculate form\obj\Debug\Calculate form.csproj.GenerateResource.cache
+E:\Windows form\Today\Calculate form\Calculate form\obj\Debug\Calculate form.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Calculate form\Calculate form\obj\Debug\Calculate form.csproj.CopyComplete
+E:\Windows form\Today\Calculate form\Calculate form\obj\Debug\Calculate form.exe
+E:\Windows form\Today\Calculate form\Calculate form\obj\Debug\Calculate form.pdb
