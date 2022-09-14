@@ -1,0 +1,11 @@
+E:\Windows form\Today\Dic_employee\Dic_employee\bin\Debug\Dic_employee.exe.config
+E:\Windows form\Today\Dic_employee\Dic_employee\bin\Debug\Dic_employee.exe
+E:\Windows form\Today\Dic_employee\Dic_employee\bin\Debug\Dic_employee.pdb
+E:\Windows form\Today\Dic_employee\Dic_employee\obj\Debug\Dic_employee.csproj.AssemblyReference.cache
+E:\Windows form\Today\Dic_employee\Dic_employee\obj\Debug\Dic_employee.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Dic_employee\Dic_employee\obj\Debug\Dic_employee.Form1.resources
+E:\Windows form\Today\Dic_employee\Dic_employee\obj\Debug\Dic_employee.Properties.Resources.resources
+E:\Windows form\Today\Dic_employee\Dic_employee\obj\Debug\Dic_employee.csproj.GenerateResource.cache
+E:\Windows form\Today\Dic_employee\Dic_employee\obj\Debug\Dic_employee.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Dic_employee\Dic_employee\obj\Debug\Dic_employee.exe
+E:\Windows form\Today\Dic_employee\Dic_employee\obj\Debug\Dic_employee.pdb
