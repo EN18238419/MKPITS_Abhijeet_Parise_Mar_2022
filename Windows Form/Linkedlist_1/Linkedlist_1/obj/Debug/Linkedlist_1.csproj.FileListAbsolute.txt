@@ -1,0 +1,8 @@
+E:\Windows form\Today\Linkedlist_1\Linkedlist_1\bin\Debug\Linkedlist_1.exe.config
+E:\Windows form\Today\Linkedlist_1\Linkedlist_1\bin\Debug\Linkedlist_1.exe
+E:\Windows form\Today\Linkedlist_1\Linkedlist_1\bin\Debug\Linkedlist_1.pdb
+E:\Windows form\Today\Linkedlist_1\Linkedlist_1\obj\Debug\Linkedlist_1.csproj.AssemblyReference.cache
+E:\Windows form\Today\Linkedlist_1\Linkedlist_1\obj\Debug\Linkedlist_1.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Linkedlist_1\Linkedlist_1\obj\Debug\Linkedlist_1.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Linkedlist_1\Linkedlist_1\obj\Debug\Linkedlist_1.exe
+E:\Windows form\Today\Linkedlist_1\Linkedlist_1\obj\Debug\Linkedlist_1.pdb
