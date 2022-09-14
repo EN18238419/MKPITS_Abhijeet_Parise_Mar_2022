@@ -1,0 +1,11 @@
+E:\Windows form\23-08-2022\ASSIGNMENT\odd number\odd number\bin\Debug\odd number.exe.config
+E:\Windows form\23-08-2022\ASSIGNMENT\odd number\odd number\bin\Debug\odd number.exe
+E:\Windows form\23-08-2022\ASSIGNMENT\odd number\odd number\bin\Debug\odd number.pdb
+E:\Windows form\23-08-2022\ASSIGNMENT\odd number\odd number\obj\Debug\odd number.csproj.AssemblyReference.cache
+E:\Windows form\23-08-2022\ASSIGNMENT\odd number\odd number\obj\Debug\odd number.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\23-08-2022\ASSIGNMENT\odd number\odd number\obj\Debug\odd_number.Form1.resources
+E:\Windows form\23-08-2022\ASSIGNMENT\odd number\odd number\obj\Debug\odd_number.Properties.Resources.resources
+E:\Windows form\23-08-2022\ASSIGNMENT\odd number\odd number\obj\Debug\odd number.csproj.GenerateResource.cache
+E:\Windows form\23-08-2022\ASSIGNMENT\odd number\odd number\obj\Debug\odd number.csproj.CoreCompileInputs.cache
+E:\Windows form\23-08-2022\ASSIGNMENT\odd number\odd number\obj\Debug\odd number.exe
+E:\Windows form\23-08-2022\ASSIGNMENT\odd number\odd number\obj\Debug\odd number.pdb
