@@ -1,0 +1,8 @@
+E:\Windows form\Today\dictionary ex 1\dictionary ex 1\bin\Debug\dictionary ex 1.exe.config
+E:\Windows form\Today\dictionary ex 1\dictionary ex 1\bin\Debug\dictionary ex 1.exe
+E:\Windows form\Today\dictionary ex 1\dictionary ex 1\bin\Debug\dictionary ex 1.pdb
+E:\Windows form\Today\dictionary ex 1\dictionary ex 1\obj\Debug\dictionary ex 1.csproj.AssemblyReference.cache
+E:\Windows form\Today\dictionary ex 1\dictionary ex 1\obj\Debug\dictionary ex 1.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\dictionary ex 1\dictionary ex 1\obj\Debug\dictionary ex 1.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\dictionary ex 1\dictionary ex 1\obj\Debug\dictionary ex 1.exe
+E:\Windows form\Today\dictionary ex 1\dictionary ex 1\obj\Debug\dictionary ex 1.pdb
