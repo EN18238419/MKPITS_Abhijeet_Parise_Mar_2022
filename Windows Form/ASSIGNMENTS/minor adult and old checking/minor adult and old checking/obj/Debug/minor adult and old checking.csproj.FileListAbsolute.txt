@@ -1,0 +1,11 @@
+E:\Windows form\ASSIGNMENT\minor adult and old checking\minor adult and old checking\obj\Debug\minor adult and old checking.csproj.AssemblyReference.cache
+E:\Windows form\ASSIGNMENT\minor adult and old checking\minor adult and old checking\obj\Debug\minor adult and old checking.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\ASSIGNMENT\minor adult and old checking\minor adult and old checking\obj\Debug\minor_adult_and_old_checking.Form1.resources
+E:\Windows form\ASSIGNMENT\minor adult and old checking\minor adult and old checking\obj\Debug\minor_adult_and_old_checking.Properties.Resources.resources
+E:\Windows form\ASSIGNMENT\minor adult and old checking\minor adult and old checking\obj\Debug\minor adult and old checking.csproj.GenerateResource.cache
+E:\Windows form\ASSIGNMENT\minor adult and old checking\minor adult and old checking\obj\Debug\minor adult and old checking.csproj.CoreCompileInputs.cache
+E:\Windows form\ASSIGNMENT\minor adult and old checking\minor adult and old checking\bin\Debug\minor adult and old checking.exe.config
+E:\Windows form\ASSIGNMENT\minor adult and old checking\minor adult and old checking\bin\Debug\minor adult and old checking.exe
+E:\Windows form\ASSIGNMENT\minor adult and old checking\minor adult and old checking\bin\Debug\minor adult and old checking.pdb
+E:\Windows form\ASSIGNMENT\minor adult and old checking\minor adult and old checking\obj\Debug\minor adult and old checking.exe
+E:\Windows form\ASSIGNMENT\minor adult and old checking\minor adult and old checking\obj\Debug\minor adult and old checking.pdb
