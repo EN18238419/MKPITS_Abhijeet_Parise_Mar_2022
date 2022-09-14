@@ -1,0 +1,11 @@
+E:\Windows form\ASSIGNMENT\vowel check\vowel check\bin\Debug\vowel check.exe.config
+E:\Windows form\ASSIGNMENT\vowel check\vowel check\bin\Debug\vowel check.exe
+E:\Windows form\ASSIGNMENT\vowel check\vowel check\bin\Debug\vowel check.pdb
+E:\Windows form\ASSIGNMENT\vowel check\vowel check\obj\Debug\vowel check.csproj.AssemblyReference.cache
+E:\Windows form\ASSIGNMENT\vowel check\vowel check\obj\Debug\vowel check.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\ASSIGNMENT\vowel check\vowel check\obj\Debug\vowel_check.Form1.resources
+E:\Windows form\ASSIGNMENT\vowel check\vowel check\obj\Debug\vowel_check.Properties.Resources.resources
+E:\Windows form\ASSIGNMENT\vowel check\vowel check\obj\Debug\vowel check.csproj.GenerateResource.cache
+E:\Windows form\ASSIGNMENT\vowel check\vowel check\obj\Debug\vowel check.csproj.CoreCompileInputs.cache
+E:\Windows form\ASSIGNMENT\vowel check\vowel check\obj\Debug\vowel check.exe
+E:\Windows form\ASSIGNMENT\vowel check\vowel check\obj\Debug\vowel check.pdb
