@@ -1,0 +1,11 @@
+E:\Windows form\pattern practice 2\pattern practice 2\bin\Debug\pattern practice 2.exe.config
+E:\Windows form\pattern practice 2\pattern practice 2\bin\Debug\pattern practice 2.exe
+E:\Windows form\pattern practice 2\pattern practice 2\bin\Debug\pattern practice 2.pdb
+E:\Windows form\pattern practice 2\pattern practice 2\obj\Debug\pattern practice 2.csproj.AssemblyReference.cache
+E:\Windows form\pattern practice 2\pattern practice 2\obj\Debug\pattern practice 2.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\pattern practice 2\pattern practice 2\obj\Debug\pattern_practice_2.Form1.resources
+E:\Windows form\pattern practice 2\pattern practice 2\obj\Debug\pattern_practice_2.Properties.Resources.resources
+E:\Windows form\pattern practice 2\pattern practice 2\obj\Debug\pattern practice 2.csproj.GenerateResource.cache
+E:\Windows form\pattern practice 2\pattern practice 2\obj\Debug\pattern practice 2.csproj.CoreCompileInputs.cache
+E:\Windows form\pattern practice 2\pattern practice 2\obj\Debug\pattern practice 2.exe
+E:\Windows form\pattern practice 2\pattern practice 2\obj\Debug\pattern practice 2.pdb
