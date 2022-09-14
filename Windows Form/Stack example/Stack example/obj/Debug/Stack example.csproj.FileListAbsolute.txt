@@ -1,0 +1,8 @@
+E:\Windows form\Today\Stack example\Stack example\bin\Debug\Stack example.exe.config
+E:\Windows form\Today\Stack example\Stack example\bin\Debug\Stack example.exe
+E:\Windows form\Today\Stack example\Stack example\bin\Debug\Stack example.pdb
+E:\Windows form\Today\Stack example\Stack example\obj\Debug\Stack example.csproj.AssemblyReference.cache
+E:\Windows form\Today\Stack example\Stack example\obj\Debug\Stack example.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Stack example\Stack example\obj\Debug\Stack example.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Stack example\Stack example\obj\Debug\Stack example.exe
+E:\Windows form\Today\Stack example\Stack example\obj\Debug\Stack example.pdb
