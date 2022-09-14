@@ -1,0 +1,17 @@
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\bin\Debug\net6.0-windows\display hra bonus and total salary.exe
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\bin\Debug\net6.0-windows\display hra bonus and total salary.deps.json
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\bin\Debug\net6.0-windows\display hra bonus and total salary.runtimeconfig.json
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\bin\Debug\net6.0-windows\display hra bonus and total salary.dll
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\bin\Debug\net6.0-windows\display hra bonus and total salary.pdb
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\display hra bonus and total salary.csproj.AssemblyReference.cache
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\display_hra_bonus_and_total_salary.Form1.resources
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\display hra bonus and total salary.csproj.GenerateResource.cache
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\display hra bonus and total salary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\display hra bonus and total salary.AssemblyInfoInputs.cache
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\display hra bonus and total salary.AssemblyInfo.cs
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\display hra bonus and total salary.csproj.CoreCompileInputs.cache
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\display hra bonus and total salary.dll
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\refint\display hra bonus and total salary.dll
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\display hra bonus and total salary.pdb
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\display hra bonus and total salary.genruntimeconfig.cache
+E:\Windows form\display hra bonus and total salary\display hra bonus and total salary\obj\Debug\net6.0-windows\ref\display hra bonus and total salary.dll
