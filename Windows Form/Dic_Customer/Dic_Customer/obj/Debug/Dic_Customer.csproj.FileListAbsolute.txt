@@ -1,0 +1,11 @@
+E:\Windows form\Today\Dic_Customer\Dic_Customer\bin\Debug\Dic_Customer.exe.config
+E:\Windows form\Today\Dic_Customer\Dic_Customer\bin\Debug\Dic_Customer.exe
+E:\Windows form\Today\Dic_Customer\Dic_Customer\bin\Debug\Dic_Customer.pdb
+E:\Windows form\Today\Dic_Customer\Dic_Customer\obj\Debug\Dic_Customer.csproj.AssemblyReference.cache
+E:\Windows form\Today\Dic_Customer\Dic_Customer\obj\Debug\Dic_Customer.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Dic_Customer\Dic_Customer\obj\Debug\Dic_Customer.Form1.resources
+E:\Windows form\Today\Dic_Customer\Dic_Customer\obj\Debug\Dic_Customer.Properties.Resources.resources
+E:\Windows form\Today\Dic_Customer\Dic_Customer\obj\Debug\Dic_Customer.csproj.GenerateResource.cache
+E:\Windows form\Today\Dic_Customer\Dic_Customer\obj\Debug\Dic_Customer.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Dic_Customer\Dic_Customer\obj\Debug\Dic_Customer.exe
+E:\Windows form\Today\Dic_Customer\Dic_Customer\obj\Debug\Dic_Customer.pdb
