@@ -1,0 +1,11 @@
+E:\Windows form\Today\2d array\2d array\bin\Debug\2d array.exe.config
+E:\Windows form\Today\2d array\2d array\bin\Debug\2d array.exe
+E:\Windows form\Today\2d array\2d array\bin\Debug\2d array.pdb
+E:\Windows form\Today\2d array\2d array\obj\Debug\2d array.csproj.AssemblyReference.cache
+E:\Windows form\Today\2d array\2d array\obj\Debug\2d array.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\2d array\2d array\obj\Debug\_2d_array.Form1.resources
+E:\Windows form\Today\2d array\2d array\obj\Debug\_2d_array.Properties.Resources.resources
+E:\Windows form\Today\2d array\2d array\obj\Debug\2d array.csproj.GenerateResource.cache
+E:\Windows form\Today\2d array\2d array\obj\Debug\2d array.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\2d array\2d array\obj\Debug\2d array.exe
+E:\Windows form\Today\2d array\2d array\obj\Debug\2d array.pdb
