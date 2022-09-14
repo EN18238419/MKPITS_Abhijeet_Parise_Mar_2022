@@ -1,0 +1,11 @@
+E:\Windows form\ASSIGNMENT\display day\display day\bin\Debug\display day.exe.config
+E:\Windows form\ASSIGNMENT\display day\display day\bin\Debug\display day.exe
+E:\Windows form\ASSIGNMENT\display day\display day\bin\Debug\display day.pdb
+E:\Windows form\ASSIGNMENT\display day\display day\obj\Debug\display day.csproj.AssemblyReference.cache
+E:\Windows form\ASSIGNMENT\display day\display day\obj\Debug\display day.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\ASSIGNMENT\display day\display day\obj\Debug\display_day.Form1.resources
+E:\Windows form\ASSIGNMENT\display day\display day\obj\Debug\display_day.Properties.Resources.resources
+E:\Windows form\ASSIGNMENT\display day\display day\obj\Debug\display day.csproj.GenerateResource.cache
+E:\Windows form\ASSIGNMENT\display day\display day\obj\Debug\display day.csproj.CoreCompileInputs.cache
+E:\Windows form\ASSIGNMENT\display day\display day\obj\Debug\display day.exe
+E:\Windows form\ASSIGNMENT\display day\display day\obj\Debug\display day.pdb
