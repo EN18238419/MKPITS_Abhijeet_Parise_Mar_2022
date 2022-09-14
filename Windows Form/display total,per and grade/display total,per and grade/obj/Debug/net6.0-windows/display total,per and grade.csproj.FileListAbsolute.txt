@@ -1,0 +1,17 @@
+E:\Windows form\display total,per and grade\display total,per and grade\bin\Debug\net6.0-windows\display total,per and grade.exe
+E:\Windows form\display total,per and grade\display total,per and grade\bin\Debug\net6.0-windows\display total,per and grade.deps.json
+E:\Windows form\display total,per and grade\display total,per and grade\bin\Debug\net6.0-windows\display total,per and grade.runtimeconfig.json
+E:\Windows form\display total,per and grade\display total,per and grade\bin\Debug\net6.0-windows\display total,per and grade.dll
+E:\Windows form\display total,per and grade\display total,per and grade\bin\Debug\net6.0-windows\display total,per and grade.pdb
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\display total,per and grade.csproj.AssemblyReference.cache
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\display_total_per_and_grade.Form1.resources
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\display total,per and grade.csproj.GenerateResource.cache
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\display total,per and grade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\display total,per and grade.AssemblyInfoInputs.cache
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\display total,per and grade.AssemblyInfo.cs
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\display total,per and grade.csproj.CoreCompileInputs.cache
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\display total,per and grade.dll
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\refint\display total,per and grade.dll
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\display total,per and grade.pdb
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\display total,per and grade.genruntimeconfig.cache
+E:\Windows form\display total,per and grade\display total,per and grade\obj\Debug\net6.0-windows\ref\display total,per and grade.dll
