@@ -1,0 +1,8 @@
+E:\Windows form\29-08-2022\ArrayList 5\ArrayList 5\bin\Debug\ArrayList 5.exe.config
+E:\Windows form\29-08-2022\ArrayList 5\ArrayList 5\bin\Debug\ArrayList 5.exe
+E:\Windows form\29-08-2022\ArrayList 5\ArrayList 5\bin\Debug\ArrayList 5.pdb
+E:\Windows form\29-08-2022\ArrayList 5\ArrayList 5\obj\Debug\ArrayList 5.csproj.AssemblyReference.cache
+E:\Windows form\29-08-2022\ArrayList 5\ArrayList 5\obj\Debug\ArrayList 5.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\29-08-2022\ArrayList 5\ArrayList 5\obj\Debug\ArrayList 5.csproj.CoreCompileInputs.cache
+E:\Windows form\29-08-2022\ArrayList 5\ArrayList 5\obj\Debug\ArrayList 5.exe
+E:\Windows form\29-08-2022\ArrayList 5\ArrayList 5\obj\Debug\ArrayList 5.pdb
