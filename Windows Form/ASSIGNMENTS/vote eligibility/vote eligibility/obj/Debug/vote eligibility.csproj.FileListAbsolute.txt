@@ -1,0 +1,11 @@
+E:\Windows form\ASSIGNMENT\vote eligibility\vote eligibility\bin\Debug\vote eligibility.exe.config
+E:\Windows form\ASSIGNMENT\vote eligibility\vote eligibility\bin\Debug\vote eligibility.exe
+E:\Windows form\ASSIGNMENT\vote eligibility\vote eligibility\bin\Debug\vote eligibility.pdb
+E:\Windows form\ASSIGNMENT\vote eligibility\vote eligibility\obj\Debug\vote eligibility.csproj.AssemblyReference.cache
+E:\Windows form\ASSIGNMENT\vote eligibility\vote eligibility\obj\Debug\vote eligibility.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\ASSIGNMENT\vote eligibility\vote eligibility\obj\Debug\vote_eligibility.Form1.resources
+E:\Windows form\ASSIGNMENT\vote eligibility\vote eligibility\obj\Debug\vote_eligibility.Properties.Resources.resources
+E:\Windows form\ASSIGNMENT\vote eligibility\vote eligibility\obj\Debug\vote eligibility.csproj.GenerateResource.cache
+E:\Windows form\ASSIGNMENT\vote eligibility\vote eligibility\obj\Debug\vote eligibility.csproj.CoreCompileInputs.cache
+E:\Windows form\ASSIGNMENT\vote eligibility\vote eligibility\obj\Debug\vote eligibility.exe
+E:\Windows form\ASSIGNMENT\vote eligibility\vote eligibility\obj\Debug\vote eligibility.pdb
