@@ -1,0 +1,11 @@
+E:\Windows form\Today\test combobox\test combobox\bin\Debug\test combobox.exe.config
+E:\Windows form\Today\test combobox\test combobox\bin\Debug\test combobox.exe
+E:\Windows form\Today\test combobox\test combobox\bin\Debug\test combobox.pdb
+E:\Windows form\Today\test combobox\test combobox\obj\Debug\test combobox.csproj.AssemblyReference.cache
+E:\Windows form\Today\test combobox\test combobox\obj\Debug\test combobox.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\test combobox\test combobox\obj\Debug\test_combobox.Form1.resources
+E:\Windows form\Today\test combobox\test combobox\obj\Debug\test_combobox.Properties.Resources.resources
+E:\Windows form\Today\test combobox\test combobox\obj\Debug\test combobox.csproj.GenerateResource.cache
+E:\Windows form\Today\test combobox\test combobox\obj\Debug\test combobox.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\test combobox\test combobox\obj\Debug\test combobox.exe
+E:\Windows form\Today\test combobox\test combobox\obj\Debug\test combobox.pdb
