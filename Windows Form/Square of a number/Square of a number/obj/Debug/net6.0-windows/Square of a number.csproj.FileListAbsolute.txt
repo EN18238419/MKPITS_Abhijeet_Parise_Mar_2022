@@ -1,0 +1,17 @@
+E:\Windows form\Square of a number\Square of a number\bin\Debug\net6.0-windows\Square of a number.exe
+E:\Windows form\Square of a number\Square of a number\bin\Debug\net6.0-windows\Square of a number.deps.json
+E:\Windows form\Square of a number\Square of a number\bin\Debug\net6.0-windows\Square of a number.runtimeconfig.json
+E:\Windows form\Square of a number\Square of a number\bin\Debug\net6.0-windows\Square of a number.dll
+E:\Windows form\Square of a number\Square of a number\bin\Debug\net6.0-windows\Square of a number.pdb
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\Square of a number.csproj.AssemblyReference.cache
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\Square_of_a_number.Form1.resources
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\Square of a number.csproj.GenerateResource.cache
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\Square of a number.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\Square of a number.AssemblyInfoInputs.cache
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\Square of a number.AssemblyInfo.cs
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\Square of a number.csproj.CoreCompileInputs.cache
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\Square of a number.dll
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\refint\Square of a number.dll
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\Square of a number.pdb
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\Square of a number.genruntimeconfig.cache
+E:\Windows form\Square of a number\Square of a number\obj\Debug\net6.0-windows\ref\Square of a number.dll
