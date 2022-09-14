@@ -1,0 +1,14 @@
+E:\Windows form\Today\Bank form\Bank form\obj\Debug\Bank form.csproj.AssemblyReference.cache
+E:\Windows form\Today\Bank form\Bank form\obj\Debug\Bank form.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Bank form\Bank form\obj\Debug\Bank_form.Form1.resources
+E:\Windows form\Today\Bank form\Bank form\obj\Debug\Bank_form.Properties.Resources.resources
+E:\Windows form\Today\Bank form\Bank form\obj\Debug\Bank form.csproj.GenerateResource.cache
+E:\Windows form\Today\Bank form\Bank form\obj\Debug\Bank form.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Bank form\Bank form\bin\Debug\Bank form.exe.config
+E:\Windows form\Today\Bank form\Bank form\bin\Debug\Bank form.exe
+E:\Windows form\Today\Bank form\Bank form\bin\Debug\Bank form.pdb
+E:\Windows form\Today\Bank form\Bank form\bin\Debug\bank.dll
+E:\Windows form\Today\Bank form\Bank form\bin\Debug\bank.pdb
+E:\Windows form\Today\Bank form\Bank form\obj\Debug\Bank form.csproj.CopyComplete
+E:\Windows form\Today\Bank form\Bank form\obj\Debug\Bank form.exe
+E:\Windows form\Today\Bank form\Bank form\obj\Debug\Bank form.pdb
