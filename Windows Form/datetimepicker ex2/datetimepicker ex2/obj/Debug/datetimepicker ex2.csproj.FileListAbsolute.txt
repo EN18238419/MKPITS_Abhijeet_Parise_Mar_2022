@@ -1,0 +1,11 @@
+E:\Windows form\Today\datetimepicker ex2\datetimepicker ex2\bin\Debug\datetimepicker ex2.exe.config
+E:\Windows form\Today\datetimepicker ex2\datetimepicker ex2\bin\Debug\datetimepicker ex2.exe
+E:\Windows form\Today\datetimepicker ex2\datetimepicker ex2\bin\Debug\datetimepicker ex2.pdb
+E:\Windows form\Today\datetimepicker ex2\datetimepicker ex2\obj\Debug\datetimepicker ex2.csproj.AssemblyReference.cache
+E:\Windows form\Today\datetimepicker ex2\datetimepicker ex2\obj\Debug\datetimepicker ex2.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\datetimepicker ex2\datetimepicker ex2\obj\Debug\datetimepicker_ex2.Form1.resources
+E:\Windows form\Today\datetimepicker ex2\datetimepicker ex2\obj\Debug\datetimepicker_ex2.Properties.Resources.resources
+E:\Windows form\Today\datetimepicker ex2\datetimepicker ex2\obj\Debug\datetimepicker ex2.csproj.GenerateResource.cache
+E:\Windows form\Today\datetimepicker ex2\datetimepicker ex2\obj\Debug\datetimepicker ex2.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\datetimepicker ex2\datetimepicker ex2\obj\Debug\datetimepicker ex2.exe
+E:\Windows form\Today\datetimepicker ex2\datetimepicker ex2\obj\Debug\datetimepicker ex2.pdb
