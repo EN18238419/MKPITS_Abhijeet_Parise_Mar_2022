@@ -1,0 +1,11 @@
+E:\Windows form\Today\Test radio_button\Test radio_button\obj\Debug\Test radio_button.csproj.AssemblyReference.cache
+E:\Windows form\Today\Test radio_button\Test radio_button\obj\Debug\Test radio_button.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Test radio_button\Test radio_button\obj\Debug\Test_radio_button.Form1.resources
+E:\Windows form\Today\Test radio_button\Test radio_button\obj\Debug\Test_radio_button.Properties.Resources.resources
+E:\Windows form\Today\Test radio_button\Test radio_button\obj\Debug\Test radio_button.csproj.GenerateResource.cache
+E:\Windows form\Today\Test radio_button\Test radio_button\obj\Debug\Test radio_button.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Test radio_button\Test radio_button\bin\Debug\Test radio_button.exe.config
+E:\Windows form\Today\Test radio_button\Test radio_button\bin\Debug\Test radio_button.exe
+E:\Windows form\Today\Test radio_button\Test radio_button\bin\Debug\Test radio_button.pdb
+E:\Windows form\Today\Test radio_button\Test radio_button\obj\Debug\Test radio_button.exe
+E:\Windows form\Today\Test radio_button\Test radio_button\obj\Debug\Test radio_button.pdb
