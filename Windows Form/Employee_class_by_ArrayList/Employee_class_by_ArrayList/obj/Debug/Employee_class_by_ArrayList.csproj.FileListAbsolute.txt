@@ -1,0 +1,8 @@
+E:\Windows form\29-08-2022\Employee_class_by_ArrayList\Employee_class_by_ArrayList\obj\Debug\Employee_class_by_ArrayList.csproj.AssemblyReference.cache
+E:\Windows form\29-08-2022\Employee_class_by_ArrayList\Employee_class_by_ArrayList\obj\Debug\Employee_class_by_ArrayList.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\29-08-2022\Employee_class_by_ArrayList\Employee_class_by_ArrayList\obj\Debug\Employee_class_by_ArrayList.csproj.CoreCompileInputs.cache
+E:\Windows form\29-08-2022\Employee_class_by_ArrayList\Employee_class_by_ArrayList\bin\Debug\Employee_class_by_ArrayList.exe.config
+E:\Windows form\29-08-2022\Employee_class_by_ArrayList\Employee_class_by_ArrayList\bin\Debug\Employee_class_by_ArrayList.exe
+E:\Windows form\29-08-2022\Employee_class_by_ArrayList\Employee_class_by_ArrayList\bin\Debug\Employee_class_by_ArrayList.pdb
+E:\Windows form\29-08-2022\Employee_class_by_ArrayList\Employee_class_by_ArrayList\obj\Debug\Employee_class_by_ArrayList.exe
+E:\Windows form\29-08-2022\Employee_class_by_ArrayList\Employee_class_by_ArrayList\obj\Debug\Employee_class_by_ArrayList.pdb
