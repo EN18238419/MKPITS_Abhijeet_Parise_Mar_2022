@@ -1,0 +1,12 @@
+E:\Windows form\Today\Add form\Add form\bin\Debug\Add form.exe.config
+E:\Windows form\Today\Add form\Add form\bin\Debug\Add form.exe
+E:\Windows form\Today\Add form\Add form\bin\Debug\Add form.pdb
+E:\Windows form\Today\Add form\Add form\obj\Debug\Add form.csproj.AssemblyReference.cache
+E:\Windows form\Today\Add form\Add form\obj\Debug\Add form.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Add form\Add form\obj\Debug\Add_form.Form1.resources
+E:\Windows form\Today\Add form\Add form\obj\Debug\Add_form.Properties.Resources.resources
+E:\Windows form\Today\Add form\Add form\obj\Debug\Add form.csproj.GenerateResource.cache
+E:\Windows form\Today\Add form\Add form\obj\Debug\Add form.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Add form\Add form\obj\Debug\Add form.exe
+E:\Windows form\Today\Add form\Add form\obj\Debug\Add form.pdb
+E:\Windows form\Today\Add form\Add form\obj\Debug\Add_form.Form3.resources
