@@ -1,0 +1,11 @@
+E:\Windows form\Today\Function\Function\bin\Debug\Function.exe.config
+E:\Windows form\Today\Function\Function\bin\Debug\Function.exe
+E:\Windows form\Today\Function\Function\bin\Debug\Function.pdb
+E:\Windows form\Today\Function\Function\obj\Debug\Function.csproj.AssemblyReference.cache
+E:\Windows form\Today\Function\Function\obj\Debug\Function.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\Function\Function\obj\Debug\Function.Form1.resources
+E:\Windows form\Today\Function\Function\obj\Debug\Function.Properties.Resources.resources
+E:\Windows form\Today\Function\Function\obj\Debug\Function.csproj.GenerateResource.cache
+E:\Windows form\Today\Function\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\Function\Function\obj\Debug\Function.exe
+E:\Windows form\Today\Function\Function\obj\Debug\Function.pdb
