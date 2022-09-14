@@ -1,0 +1,11 @@
+E:\Windows form\ASSIGNMENT\factorial for\factorial for\bin\Debug\factorial for.exe.config
+E:\Windows form\ASSIGNMENT\factorial for\factorial for\bin\Debug\factorial for.exe
+E:\Windows form\ASSIGNMENT\factorial for\factorial for\bin\Debug\factorial for.pdb
+E:\Windows form\ASSIGNMENT\factorial for\factorial for\obj\Debug\factorial for.csproj.AssemblyReference.cache
+E:\Windows form\ASSIGNMENT\factorial for\factorial for\obj\Debug\factorial for.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\ASSIGNMENT\factorial for\factorial for\obj\Debug\factorial_for.Form1.resources
+E:\Windows form\ASSIGNMENT\factorial for\factorial for\obj\Debug\factorial_for.Properties.Resources.resources
+E:\Windows form\ASSIGNMENT\factorial for\factorial for\obj\Debug\factorial for.csproj.GenerateResource.cache
+E:\Windows form\ASSIGNMENT\factorial for\factorial for\obj\Debug\factorial for.csproj.CoreCompileInputs.cache
+E:\Windows form\ASSIGNMENT\factorial for\factorial for\obj\Debug\factorial for.exe
+E:\Windows form\ASSIGNMENT\factorial for\factorial for\obj\Debug\factorial for.pdb
