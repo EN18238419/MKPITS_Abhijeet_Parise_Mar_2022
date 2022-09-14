@@ -1,0 +1,11 @@
+E:\Windows form\Today\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.AssemblyReference.cache
+E:\Windows form\Today\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\Today\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.Form1.resources
+E:\Windows form\Today\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.Properties.Resources.resources
+E:\Windows form\Today\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.GenerateResource.cache
+E:\Windows form\Today\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.exe.config
+E:\Windows form\Today\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.exe
+E:\Windows form\Today\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.pdb
+E:\Windows form\Today\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.exe
+E:\Windows form\Today\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.pdb
