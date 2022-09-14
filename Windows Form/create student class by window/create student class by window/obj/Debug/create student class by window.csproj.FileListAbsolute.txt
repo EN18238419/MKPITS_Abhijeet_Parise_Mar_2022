@@ -1,0 +1,11 @@
+E:\Windows form\29-08-2022\create student class by window\create student class by window\bin\Debug\create student class by window.exe.config
+E:\Windows form\29-08-2022\create student class by window\create student class by window\bin\Debug\create student class by window.exe
+E:\Windows form\29-08-2022\create student class by window\create student class by window\bin\Debug\create student class by window.pdb
+E:\Windows form\29-08-2022\create student class by window\create student class by window\obj\Debug\create student class by window.csproj.AssemblyReference.cache
+E:\Windows form\29-08-2022\create student class by window\create student class by window\obj\Debug\create student class by window.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\29-08-2022\create student class by window\create student class by window\obj\Debug\create_student_class_by_window.Form1.resources
+E:\Windows form\29-08-2022\create student class by window\create student class by window\obj\Debug\create_student_class_by_window.Properties.Resources.resources
+E:\Windows form\29-08-2022\create student class by window\create student class by window\obj\Debug\create student class by window.csproj.GenerateResource.cache
+E:\Windows form\29-08-2022\create student class by window\create student class by window\obj\Debug\create student class by window.csproj.CoreCompileInputs.cache
+E:\Windows form\29-08-2022\create student class by window\create student class by window\obj\Debug\create student class by window.exe
+E:\Windows form\29-08-2022\create student class by window\create student class by window\obj\Debug\create student class by window.pdb
