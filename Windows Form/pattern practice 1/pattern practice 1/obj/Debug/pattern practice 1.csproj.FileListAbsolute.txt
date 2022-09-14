@@ -1,0 +1,11 @@
+E:\Windows form\pattern practice 1\pattern practice 1\bin\Debug\pattern practice 1.exe.config
+E:\Windows form\pattern practice 1\pattern practice 1\bin\Debug\pattern practice 1.exe
+E:\Windows form\pattern practice 1\pattern practice 1\bin\Debug\pattern practice 1.pdb
+E:\Windows form\pattern practice 1\pattern practice 1\obj\Debug\pattern practice 1.csproj.AssemblyReference.cache
+E:\Windows form\pattern practice 1\pattern practice 1\obj\Debug\pattern practice 1.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\pattern practice 1\pattern practice 1\obj\Debug\pattern_practice_1.Form1.resources
+E:\Windows form\pattern practice 1\pattern practice 1\obj\Debug\pattern_practice_1.Properties.Resources.resources
+E:\Windows form\pattern practice 1\pattern practice 1\obj\Debug\pattern practice 1.csproj.GenerateResource.cache
+E:\Windows form\pattern practice 1\pattern practice 1\obj\Debug\pattern practice 1.csproj.CoreCompileInputs.cache
+E:\Windows form\pattern practice 1\pattern practice 1\obj\Debug\pattern practice 1.exe
+E:\Windows form\pattern practice 1\pattern practice 1\obj\Debug\pattern practice 1.pdb
