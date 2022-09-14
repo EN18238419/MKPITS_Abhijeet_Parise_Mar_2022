@@ -1,0 +1,6 @@
+E:\Windows form\Today\calculate\calculate\bin\Debug\calculate.dll
+E:\Windows form\Today\calculate\calculate\bin\Debug\calculate.pdb
+E:\Windows form\Today\calculate\calculate\obj\Debug\calculate.csproj.AssemblyReference.cache
+E:\Windows form\Today\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache
+E:\Windows form\Today\calculate\calculate\obj\Debug\calculate.dll
+E:\Windows form\Today\calculate\calculate\obj\Debug\calculate.pdb
