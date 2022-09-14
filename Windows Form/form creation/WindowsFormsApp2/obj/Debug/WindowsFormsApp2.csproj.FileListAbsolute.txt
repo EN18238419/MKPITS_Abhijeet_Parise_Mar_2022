@@ -1,0 +1,11 @@
+E:\Windows form\29-08-2022\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Windows form\29-08-2022\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Windows form\29-08-2022\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Windows form\29-08-2022\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\Windows form\29-08-2022\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\29-08-2022\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Windows form\29-08-2022\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Windows form\29-08-2022\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Windows form\29-08-2022\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Windows form\29-08-2022\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Windows form\29-08-2022\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
