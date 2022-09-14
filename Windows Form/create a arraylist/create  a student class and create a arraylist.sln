@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "create  a student class and create a arraylist", "create  a student class and create a arraylist\create  a student class and create a arraylist.csproj", "{AFC037CB-76C5-4A09-8B9C-67D68E610A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC037CB-76C5-4A09-8B9C-67D68E610A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC037CB-76C5-4A09-8B9C-67D68E610A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC037CB-76C5-4A09-8B9C-67D68E610A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC037CB-76C5-4A09-8B9C-67D68E610A72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A8041BC-3F17-448A-9A36-A0D1534E5BE5}
+	EndGlobalSection
+EndGlobal

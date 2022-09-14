@@ -1,0 +1,8 @@
+E:\Windows form\29-08-2022\create  a student class and create a arraylist\create  a student class and create a arraylist\bin\Debug\create  a student class and create a arraylist.exe.config
+E:\Windows form\29-08-2022\create  a student class and create a arraylist\create  a student class and create a arraylist\bin\Debug\create  a student class and create a arraylist.exe
+E:\Windows form\29-08-2022\create  a student class and create a arraylist\create  a student class and create a arraylist\bin\Debug\create  a student class and create a arraylist.pdb
+E:\Windows form\29-08-2022\create  a student class and create a arraylist\create  a student class and create a arraylist\obj\Debug\create  a student class and create a arraylist.csproj.AssemblyReference.cache
+E:\Windows form\29-08-2022\create  a student class and create a arraylist\create  a student class and create a arraylist\obj\Debug\create  a student class and create a arraylist.csproj.SuggestedBindingRedirects.cache
+E:\Windows form\29-08-2022\create  a student class and create a arraylist\create  a student class and create a arraylist\obj\Debug\create  a student class and create a arraylist.csproj.CoreCompileInputs.cache
+E:\Windows form\29-08-2022\create  a student class and create a arraylist\create  a student class and create a arraylist\obj\Debug\create  a student class and create a arraylist.exe
+E:\Windows form\29-08-2022\create  a student class and create a arraylist\create  a student class and create a arraylist\obj\Debug\create  a student class and create a arraylist.pdb
